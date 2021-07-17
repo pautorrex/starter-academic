@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Marc Sanjaume-Calvet
+title: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,7 +20,6 @@ bio: Assistant Professor at Universitat Pompeu Fabra, Barcelona.
 interests:
 - Democracy
 - Federalism
-- Political Theory
 - Cultural justice
 - Self-determination
 - Realism
@@ -28,12 +27,18 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: master Degree Data Analyst
+  - course: Master Degree Data Analyst
     institution: Universitat de Barcelona
     year: 2018
   - course: PhD in Political Science
     institution: Universitat Pompeu Fabra
     year: 2013
+  - course: MA in Political Science
+    institution: Universitat Pompeu Fabra
+    year: 2009
+  - course: BA in Political Science
+    institution: Universitat Pompeu Fabra
+    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

@@ -30,7 +30,7 @@ education:
   - course: Master Degree Data Analyst
     institution: Universitat de Barcelona
     year: 2018
-  - course: PhD in Political Science
+  - course: PhD in Political Theory
     institution: Universitat Pompeu Fabra
     year: 2013
   - course: MA in Political Science
@@ -73,8 +73,7 @@ email: ""
 highlight_name: false
 ---
 
-Marc Sanjaume-Calvet, Professor of Political Theory at Universitat Pompeu Fabra. Member of the Political Theory Research Group (GRTP)
 
-Formerly, I was Assistant Professor at Universitat Oberta de Catalunya, Advisor at Self-Government Studies Institute - Institut d'Estudis de l'Autogovern and Visiting Researcher at Edinburgh University (Scotland) and Laval University (Quebec). I also have been Postdoctoral Researcher at Centre de recherche interdisciplinaire sur la diversité et la démocratie at Université du Québec à Montréal (UQAM).
+<br/><br/> Professor of Political Theory at Universitat Pompeu Fabra. Member of the [Political Theory Research Group](https://www.upf.edu/web/grtp). Former Assistant Professor at Universitat Oberta de Catalunya, Advisor at Self-Government Studies Institute - Institut d'Estudis de l'Autogovern and Visiting Researcher at Edinburgh University (Scotland) and Laval University (Quebec). I also have been Postdoctoral Researcher at Centre de recherche interdisciplinaire sur la diversité et la démocratie at Université du Québec à Montréal (UQAM).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

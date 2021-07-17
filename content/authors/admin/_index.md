@@ -22,11 +22,15 @@ interests:
 - Federalism
 - Political Theory
 - Cultural justice
+- Self-determination
 - Realism
 
 # Education to show in About widget
 education:
   courses:
+  - course: master Degree Data Analyst
+    institution: Universitat de Barcelona
+    year: 2018
   - course: PhD in Political Science
     institution: Universitat Pompeu Fabra
     year: 2013
@@ -41,16 +45,14 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/marcsanjaume
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.es/citations?user=48oozN8AAAAJ&hl=es
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://github.com/msanjcalv
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -66,6 +68,8 @@ email: ""
 highlight_name: false
 ---
 
-Marc Sanjaume-Calvet is a Professor of Political Theory at Universitat Pompeu Fabra.
+Marc Sanjaume-Calvet, Professor of Political Theory at Universitat Pompeu Fabra. Member of the Political Theory Research Group (GRTP)
+
+Formerly, I was Assistant Professor at Universitat Oberta de Catalunya, Advisor at Self-Government Studies Institute - Institut d'Estudis de l'Autogovern and Visiting Researcher at Edinburgh University (Scotland) and Laval University (Quebec). I also have been Postdoctoral Researcher at Centre de recherche interdisciplinaire sur la diversité et la démocratie at Université du Québec à Montréal (UQAM).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

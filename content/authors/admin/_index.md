@@ -28,7 +28,7 @@ interests:
 education:
   courses:
   - course: PhD in Political Science
-    institution: Stanford University
+    institution: Universitat Pompeu Fabra
     year: 2013
 
 # Social/Academic Networking

@@ -8,17 +8,21 @@ main:
     url: '#about'
     weight: 10
   - name: Publications
-    url: '#posts'
+    url: '#publications'
     weight: 20
   - name: Courses
-    url: '#courses'
+    url: '#Courses'
     weight: 30
-  - name: Contact
-    url: '#contact'
+  - name: Outreach
+    url: '#Outreach'
     weight: 50
   - name: CV
     url: uploads/resume.pdf
     weight: 60
+  - name: Contact
+    url: '#contact'
+    weight: 50
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.

@@ -23,7 +23,7 @@ twitter: ''
 email: marcsanjaume@gmail.com
 phone: +34 649 64 17 82
 address:
-  street: Ramon Trias Fargas
+  street: Ramon Trias Fargas, 25-27
   city: Barcelona
   region: Catalunya
   postcode: '08005'
@@ -44,7 +44,7 @@ contact_links:
 
 main_menu:
   enable: true
-  align: r
+  align: c
   show_logo: true
   show_language: false
   show_day_night: true

@@ -126,8 +126,8 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: ''
-  api_key: ''
+  provider: 'google_site_verification'
+  api_key: 'AIzaSyDbBFGtV-LYe8a-P1nCsflUMFL8EYrNGtk'
   zoom: 15
 marketing:
   google_analytics: ''

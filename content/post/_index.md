@@ -1,3 +1,4 @@
+active: false
 ---
 title: Posts
 cms_exclude: true

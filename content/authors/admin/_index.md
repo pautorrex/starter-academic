@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 
+title: Marc <br/><br/>Sanjaume-Calvet 
 
 # Is this the primary user of the site?
 superuser: true
@@ -82,4 +82,4 @@ highlight_name: false
 
 <br/><br/> Professor of Political Theory at Universitat Pompeu Fabra. Member of the [Political Theory Research Group](https://www.upf.edu/web/grtp). Former Assistant Professor at Universitat Oberta de Catalunya, Advisor at Self-Government Studies Institute - Institut d'Estudis de l'Autogovern and Visiting Researcher at Edinburgh University (Scotland) and Laval University (Quebec). I also have been Postdoctoral Researcher at Centre de recherche interdisciplinaire sur la diversité et la démocratie at Université du Québec à Montréal (UQAM).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+

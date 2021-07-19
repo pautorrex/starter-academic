@@ -1,5 +1,5 @@
 ---
-title: Chapters
+title: Books
 type: single
 
 view: 2

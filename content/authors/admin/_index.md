@@ -58,7 +58,7 @@ social:
   icon_pack: fab
   link: https://github.com/msanjcalv
 - icon: strava
-  icon_pack: fas
+  icon_pack: fab
   link: https://www.strava.com/athletes/5956594
 
 

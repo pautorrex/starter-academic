@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Marc Sanjaume-Calvet 
+title: Marc   Sanjaume-Calvet 
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,11 +18,12 @@ bio: Assistant Professor at Universitat Pompeu Fabra, Barcelona.
 
 # Interests to show in About widget
 interests:
-- Democracy
-- Federalism
-- Cultural justice
-- Self-determination
-- Realism
+- Federalism & Secessionism
+- National Self-Determination
+- Social & Cultural Justice
+- Political Realism
+- Political Theory
+- Political Philosophy
 
 # Education to show in About widget
 education:

@@ -57,6 +57,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/msanjcalv
+- icon: strava
+  icon_pack: fas
+  link: https://www.strava.com/athletes/5956594
 
 
 # Link to a PDF of your resume/CV.

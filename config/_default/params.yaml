@@ -127,7 +127,7 @@ search:
     show_logo: false
 map:
   provider: openstreetmap
-  api_key: https://www.openstreetmap.org/export#map=17/41.38959/2.19093
+  api_key: https://osm.org/go/xUbR_batm-?m=
   zoom: 15
 marketing:
   google_analytics: ''

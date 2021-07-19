@@ -9,6 +9,3 @@ header:
   image: ""
 ---
 
-Articles
-
-Books etc

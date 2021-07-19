@@ -2,8 +2,8 @@
 title: 
 type: book
 url: /Publications
-BookSearch = false
-bookToC = false
+BookSearch : false
+bookToC : false
 
 view: 2
 

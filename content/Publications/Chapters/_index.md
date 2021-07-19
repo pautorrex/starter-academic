@@ -1,6 +1,6 @@
 ---
 title: Chapters
-type: book
+type: page
 
 view: 2
 

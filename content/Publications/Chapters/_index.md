@@ -1,6 +1,6 @@
 ---
 title: Chapters
-type: page
+type: single
 
 view: 2
 

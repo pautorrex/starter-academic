@@ -1,6 +1,6 @@
 ---
-title: Chapters
-type: list
+title: Papers
+type: single
 
 view: 2
 
@@ -9,4 +9,4 @@ header:
   image: ""
 ---
 
-capítol
+paper

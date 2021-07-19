@@ -1,6 +1,6 @@
 ---
-title: Papers
-type: page
+title: Book reviews
+type: single
 
 view: 2
 
@@ -9,4 +9,4 @@ header:
   image: ""
 ---
 
-paper
+reviews hola

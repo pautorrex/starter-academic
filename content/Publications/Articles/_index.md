@@ -8,7 +8,7 @@ header:
   caption: ""
   image: ""
 ---
-
+<br/><br/>
 * Sanjaume-Calvet M, Riera-Gil E. 2020. "[Languages, secessionism and party competition in Catalonia: A case of de-ethnicising outbidding?](https://www.google.com/url?q=https%3A%2F%2Fjournals.sagepub.com%2Fdoi%2Ffull%2F10.1177%2F1354068820960382&sa=D&sntz=1&usg=AFQjCNFYi0bMWsiP3WBkwILTanktPMEVpA)", *Party Politics*, DOI: 10.1177/1354068820960382. (online first)<br/><br/>
 
 * López, J.; Sanjaume-Calvet, M. 2020. "[The Political Use of](https://www.google.com/url?q=https%3A%2F%2Fwww.tandfonline.com%2Fdoi%2Ffull%2F10.1080%2F00344893.2020.1720790&sa=D&sntz=1&usg=AFQjCNGPgdpxwaRPJJk201JClLG1ZNAZjg) [*de facto*](https://www.google.com/url?q=https%3A%2F%2Fwww.tandfonline.com%2Fdoi%2Ffull%2F10.1080%2F00344893.2020.1720790&sa=D&sntz=1&usg=AFQjCNGPgdpxwaRPJJk201JClLG1ZNAZjg) [Referendums of Independence. The Case of Catalonia](https://www.google.com/url?q=https%3A%2F%2Fwww.tandfonline.com%2Fdoi%2Ffull%2F10.1080%2F00344893.2020.1720790&sa=D&sntz=1&usg=AFQjCNGPgdpxwaRPJJk201JClLG1ZNAZjg)", *Representation. Journal of Representative Democracy,* DOI: 10.1080/00344893.2020.1720790 (online first)<br/><br/>

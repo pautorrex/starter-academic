@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: 
 type: page
 
 view: 2

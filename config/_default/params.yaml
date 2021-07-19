@@ -126,7 +126,7 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: openstreetmap
+  provider: osm
   api_key: https://osm.org/go/xUbR_bP~w-?m=
   zoom: 15
 marketing:

@@ -1,6 +1,7 @@
 ---
-title: Chapters
-type: list
+title: 
+type: book
+url: /Publications
 
 view: 2
 
@@ -9,4 +10,4 @@ header:
   image: ""
 ---
 
-capítol
+

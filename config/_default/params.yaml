@@ -126,8 +126,8 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: google
-  api_key: https://www.google.com/maps/embed/v1/MAP_MODE?key=AIzaSyDbBFGtV-LYe8a-P1nCsflUMFL8EYrNGtk&parameters
+  provider:
+  api_key:
   zoom: 15
 marketing:
   google_analytics: ''

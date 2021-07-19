@@ -60,6 +60,9 @@ social:
 - icon: strava
   icon_pack: fab
   link: https://www.strava.com/athletes/5956594
+- icon: cv
+  icon_pack: ai
+  link: uploads/resume.pdf
 
 
 # Link to a PDF of your resume/CV.

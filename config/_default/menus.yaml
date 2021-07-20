@@ -7,21 +7,24 @@ main:
   - name: About me
     url: '#about'
     weight: 10
+  - name: Recent Publications
+    url: '#recentpublications'
+    weight: 20
   - name: Courses
     url: Courses/
-    weight: 30
+    weight: 40
   - name: Publications
     url: Publications/
-    weight: 20
+    weight: 30
   - name: Current research
     url: Research/
-    weight: 40
+    weight: 50
   - name: Datasets
     url: Datasets/
-    weight: 50
+    weight: 60
   - name: Outreach
     url: Outreach/
-    weight: 60
+    weight: 70
   - name: Contact
     url: '#contact'
-    weight: 70
+    weight: 80

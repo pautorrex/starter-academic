@@ -126,8 +126,8 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider:
-  api_key:
+  provider: google
+  api_key: "https://maps.google.com/maps?q=Campus%20de%20Ciutadella&t=&z=13&ie=UTF8&iwloc=&output=embed"
   zoom: 15
 marketing:
   google_analytics: ''

@@ -49,21 +49,36 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/marcsanjaume
+- icon: cv
+  icon_pack: ai
+  link: uploads/resume.pdf
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.es/citations?user=48oozN8AAAAJ&hl=es
 - icon: github
   icon_pack: fab
   link: https://github.com/msanjcalv
+- icon: research gate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Marc-Sanjaume-Calvet
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/marcsanjaume
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/marcsanjaume/
 - icon: strava
   icon_pack: fab
   link: https://www.strava.com/athletes/5956594
-- icon: cv
-  icon_pack: ai
-  link: uploads/resume.pdf
+- icon: spotify
+  icon_pack: fab
+  link: https://open.spotify.com/show/3M3dJKM7ClrRVYYOkSeLGB
+- icon: skype
+  icon_pack: fab
+  link: https://join.skype.com/invite/pKNsc0Zby0Zs
+  
+  
+
 
 
 # Link to a PDF of your resume/CV.

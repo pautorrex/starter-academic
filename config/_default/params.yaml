@@ -126,8 +126,8 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: osm
-  api_key: https://osm.org/go/xUbR_bP~w-?m=
+  provider:
+  api_key:
   zoom: 15
 marketing:
   google_analytics: ''

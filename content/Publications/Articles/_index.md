@@ -1,5 +1,5 @@
 ---
-title: Articles (peer-reviewed)
+title: Articles
 type: single
 summary: " "
 

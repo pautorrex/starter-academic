@@ -1,6 +1,7 @@
 ---
 title: Books
 type: single
+summary: " "
 
 view: 2
 

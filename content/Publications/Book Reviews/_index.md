@@ -1,7 +1,7 @@
 ---
 title: Book Reviews
 type: single
-
+summary: " "
 view: 2
 
 header:

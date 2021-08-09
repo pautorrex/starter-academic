@@ -31,6 +31,3 @@ main:
   - name: Contact
     url: '#contact'
     weight: 90
-  - name: Test
-    url: Test/
-    weight: 100

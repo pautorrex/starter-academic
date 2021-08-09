@@ -1,6 +1,7 @@
 ---
 title: Book Chapters
 type: single
+summary: " "
 
 view: 2
 

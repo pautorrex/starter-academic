@@ -1,6 +1,6 @@
 ---
 title: Publications
-#headless: true
+
 
 type: page
 view: 2

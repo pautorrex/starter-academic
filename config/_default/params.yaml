@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: earth
+theme: minimal
 day_night: true
 font: ''
 font_size: L
@@ -62,6 +62,8 @@ address_format: en-us
 highlight: true
 highlight_languages:
   - r
+	- python
+  - latex
 math: false
 diagram: false
 privacy_pack: false
@@ -74,12 +76,12 @@ edit_page:
     post: false
     book: false
 show_related:
-  book: false
+  book: true
   page: false
-  post: false
-  project: false
-  publication: false
-  event: false
+  post: true
+  project: true
+  publication: true
+  event: true
 reading_time: false
 section_pager: false
 docs_section_pager: true

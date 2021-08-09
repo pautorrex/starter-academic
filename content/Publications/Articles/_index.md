@@ -2,7 +2,7 @@
 title: Articles (peer-reviewed)
 type: single
 summary: "Random"
-abstract:"Random2"
+abstract: "Random2"
 view: 2
 
 header:

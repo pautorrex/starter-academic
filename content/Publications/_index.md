@@ -1,8 +1,9 @@
 ---
 title: Publications
-headless: true
-active: true
-type: widget_page
+#headless: true
+
+type: page
+view: 2
 
 header:
   caption: ""

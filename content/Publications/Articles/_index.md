@@ -1,8 +1,8 @@
 ---
 title: Articles (peer-reviewed)
 type: single
-summary: "Random"
-abstract: "Random2"
+summary: ""
+
 view: 2
 
 header:

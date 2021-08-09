@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Marc   Sanjaume-Calvet  
+title: Marc <br/><br/> Sanjaume-Calvet  
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor of Political Theory
+role: Assistant Professor of <br/><br/> Political Theory
 
 # Organizations/Affiliations to show in About widget
 organizations:

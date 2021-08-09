@@ -11,21 +11,25 @@ main:
     url: '#recentpublications'
     weight: 20
   - name: Courses
-    url: Courses/
+    url: /Courses/
     weight: 40
+    identifier: "Courses"
   - name: Publications
     url: /Publications/
     weight: 30
     identifier : "Publications"
   - name: Current research
-    url: Research/
+    url: /Research/
     weight: 50
+    identifier : "Research"
   - name: Datasets
-    url: Datasets/
+    url: /Datasets/
     weight: 60
+    identifier : "Datasets"
   - name: Outreach
-    url: Outreach/
+    url: /Outreach/
     weight: 70
+    identifier : "Outreach"
   - name: CV
     url: https://msanjaume.netlify.app/uploads/resume.pdf
     weight: 80

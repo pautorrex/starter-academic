@@ -18,6 +18,14 @@ org_name: ''
 description: ''
 twitter: ''
 
+languages:
+  en:
+	languageName: English
+	weight: 1
+  ca:
+	languageName: Català
+	weight: 2
+
 # Contact (edit or remove options as required)
 
 email: marc.sanjaume@upf.edu

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Marc Sanjaume 
+title: Marc &nbsp Sanjaume-Calvet
 
 # Is this the primary user of the site?
 superuser: true
@@ -64,18 +64,7 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/marcsanjaume
-- icon: instagram
-  icon_pack: fab
-  link: https://www.instagram.com/marcsanjaume/
-- icon: strava
-  icon_pack: fab
-  link: https://www.strava.com/athletes/5956594
-- icon: spotify
-  icon_pack: fab
-  link: https://open.spotify.com/show/3M3dJKM7ClrRVYYOkSeLGB
-- icon: skype
-  icon_pack: fab
-  link: https://join.skype.com/invite/pKNsc0Zby0Zs
+
   
   
 
@@ -96,7 +85,7 @@ highlight_name: false
 ---
 
 
-Welcome! I am Marc Sanjaume-Calvet, Assistant Professor of Political Theory at the [Department of Political and Social Sciences](https://www.upf.edu/web/politiques) of [Universitat Pompeu Fabra](https://www.upf.edu). Member of the [Political Theory Research Group](https://www.upf.edu/web/grtp). Coordinator of the [Master in Current Democracies](https://www.upf.edu/web/masters/master-en-democracies-actuals-nacionalisme-federalisme-i-multiculturalitat). 
+Welcome! I am **Marc Sanjaume-Calvet**, Assistant Professor of Political Theory at the [Department of Political and Social Sciences](https://www.upf.edu/web/politiques) of [Universitat Pompeu Fabra](https://www.upf.edu). Member of the [Political Theory Research Group](https://www.upf.edu/web/grtp). Coordinator of the [Master in Current Democracies](https://www.upf.edu/web/masters/master-en-democracies-actuals-nacionalisme-federalisme-i-multiculturalitat) program. 
 
 Former Assistant Professor at [Universitat Oberta de Catalunya](https://www.uoc.edu), Advisor at [Self-Government Studies Institute - Institut d'Estudis de l'Autogovern](https://presidencia.gencat.cat/ca/ambits_d_actuacio/desenvolupament_autogovern/institut-destudis-autogovern/) and Visiting Researcher at Edinburgh University (Scotland) and Laval University (Quebec). I also was a Postdoctoral Researcher at the [Centre de recherche interdisciplinaire sur la diversité et la démocratie at Université du Québec à Montréal](https://cridaq.uqam.ca/). My research has been published in the *Journal of Politics*, *Party Politics*, *Nations and Nationalism*, *Canadian Journal of Political Science* and *Representation* among others.  
 

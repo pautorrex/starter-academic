@@ -10,7 +10,7 @@ header:
   image: ""
 ---
 
-* Sanjaume-Calvet, M. 2021. "[Plebiscitarianism Revisited: A Typology of Independence Referendums](https://www.google.com/url?q=https%3A%2F%2Fwww.cambridge.org%2Fcore%2Fjournals%2Fcanadian-journal-of-political-science-revue-canadienne-de-science-politique%2Farticle%2Fplebiscitarianism-revisited-a-typology-of-independence-referendums%2F685CF6CC6ADF1D6AF10D07C808960449&sa=D&sntz=1&usg=AFQjCNGrOs5iOmWDTpwflHznnXNpcFHYsg)". Canadian Journal of Political Science, 1-22. DOI:10.1017/S0008423921000421<br/><br/> 
+* Sanjaume-Calvet, M. 2021. "[Plebiscitarianism Revisited: A Typology of Independence Referendums](https://www.google.com/url?q=https%3A%2F%2Fwww.cambridge.org%2Fcore%2Fjournals%2Fcanadian-journal-of-political-science-revue-canadienne-de-science-politique%2Farticle%2Fplebiscitarianism-revisited-a-typology-of-independence-referendums%2F685CF6CC6ADF1D6AF10D07C808960449&sa=D&sntz=1&usg=AFQjCNGrOs5iOmWDTpwflHznnXNpcFHYsg)". Canadian Journal of Political Science, 1-22. DOI:10.1017/S0008423921000421<br/><br/>
 
 * Sanjaume-Calvet M, Riera-Gil E. 2020. "[Languages, secessionism and party competition in Catalonia: A case of de-ethnicising outbidding?](https://www.google.com/url?q=https%3A%2F%2Fjournals.sagepub.com%2Fdoi%2Ffull%2F10.1177%2F1354068820960382&sa=D&sntz=1&usg=AFQjCNFYi0bMWsiP3WBkwILTanktPMEVpA)", *Party Politics*, DOI: 10.1177/1354068820960382.<br/><br/>
 

@@ -23,7 +23,7 @@ languages:
 	languageName: English
 	weight: 1
   ca:
-	languageName: Català
+	languageName: Catala
 	weight: 2
 
 # Contact (edit or remove options as required)

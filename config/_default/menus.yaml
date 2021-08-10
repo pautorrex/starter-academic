@@ -22,17 +22,13 @@ main:
     url: /Research/
     weight: 50
     identifier : "Research"
-  - name: Datasets
-    url: /Datasets/
-    weight: 60
-    identifier : "Datasets"
   - name: Outreach
     url: /Outreach/
-    weight: 70
+    weight: 60
     identifier : "Outreach"
   - name: CV
     url: https://msanjaume.netlify.app/uploads/resume.pdf
-    weight: 80
+    weight: 70
   - name: Contact
     url: '#contact'
-    weight: 90
+    weight: 80

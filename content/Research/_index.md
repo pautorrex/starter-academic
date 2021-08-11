@@ -15,4 +15,4 @@ header:
 
 * ["Can Women Speak?"](static/uploads/WomenSpeak_vSep2020.pdf) presented at [ECPR Joint Sessions 2021](https://ecpr.eu/JointSessions) co-authored with Joan-Josep Vallbé (UB).<br/><br/> 
 
-
+* Multinationalism and COVID, *Groupe de recherche sur les sociétés plurinationales*, seminar 2020, [Slides](https://msanjaume.netlify.app/uploads/Covid_GRSP.html)

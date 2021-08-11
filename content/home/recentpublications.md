@@ -7,7 +7,7 @@
   date : "2018-01-02T00:00:00"
 
   # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-  title : "Recent {{< line_break >}} Publications"
+  title : "Recent <br/> Publications"
   subtitle : ""
 
   # Order that this section will appear in.

@@ -83,7 +83,7 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-{{ .Site.Copyright | safeHTML }}
+{{ .portrait-title | safeHTML }}
 
 Welcome to my page! I am **Marc Sanjaume-Calvet**, Assistant Professor of Political Theory in the [Department of Political and Social Sciences](https://www.upf.edu/web/politiques) at [Universitat Pompeu Fabra](https://www.upf.edu). Member of the [Political Theory Research Group](https://www.upf.edu/web/grtp). Coordinator of the [Master in Current Democracies](https://www.upf.edu/web/masters/master-en-democracies-actuals-nacionalisme-federalisme-i-multiculturalitat) program. 
 

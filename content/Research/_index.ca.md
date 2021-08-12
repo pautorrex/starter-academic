@@ -1,5 +1,5 @@
 ---
-title: Recerca actual
+title:   
 type: single
 
 view: 2

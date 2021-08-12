@@ -1,5 +1,5 @@
 ---
-title: Current research
+title:    
 type: single
 
 view: 2

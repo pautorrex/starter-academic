@@ -1,5 +1,5 @@
 ---
-title: Courses
+title: Docència
 type: single
 
 view: 2

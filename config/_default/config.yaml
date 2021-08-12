@@ -89,7 +89,7 @@ languages:
         url: https://msanjaume.netlify.app/uploads/resume.pdf
         weight: 70
       - name: Contacte
-        url: '#Contacte'
+        url: '#contact'
         weight: 80
 
 

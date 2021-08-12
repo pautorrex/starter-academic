@@ -1,7 +1,6 @@
 ---
 # Display name
-title: "Marc
-  \nsplit Sanjaume-Calvet"
+title: "\nMarc Sanjaume-Calvet"
 
 # Is this the primary user of the site?
 superuser: true

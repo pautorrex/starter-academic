@@ -138,6 +138,8 @@ taxonomies:
   author: authors
 markup:
   _merge: deep
+  blackFriday:
+    skipHTML: false
 related:
   threshold: 80
   includeNewer: true

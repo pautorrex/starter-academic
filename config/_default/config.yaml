@@ -138,6 +138,7 @@ taxonomies:
   author: authors
 markup:
   _merge: deep
+
 related:
   threshold: 80
   includeNewer: true
@@ -148,4 +149,9 @@ related:
     - name: categories
       weight: 70
 
-
+blackfriday:
+  angledQuotes: true
+  fractions: false
+  plainIDAnchors: true
+  extensions:
+    - hardLineBreak

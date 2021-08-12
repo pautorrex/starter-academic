@@ -139,7 +139,7 @@ taxonomies:
 markup:
   _merge: deep
   blackFriday:
-    skipHTML: false
+    skipHTML: true
 related:
   threshold: 80
   includeNewer: true

@@ -6,7 +6,7 @@ title: Marc Sanjaume-Calvet
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor <br/> of Political Theory
+role: Professor Lector <br/> de Teoria Política
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,26 +18,26 @@ bio: Assistant Professor at Universitat Pompeu Fabra, Barcelona.
 
 # Interests to show in About widget
 interests:
-- Federalism & Secessionism
-- National Self-Determination
-- Social & Cultural Justice
-- Political Realism
-- Political Theory
-- Political Philosophy
+- Federalisme i Secessió
+- Autodeterminació nacional
+- Justícia Social i Cultural
+- Realisme Polític
+- Teoria Política
+- Filosofia Política
 
 # Education to show in About widget
 education:
   courses:
-  - course: Master Degree Data Analyst
+  - course: Postgrau Analista de Dades
     institution: Universitat de Barcelona
     year: 2018
-  - course: PhD in Political Theory
+  - course: Doctorat en Teoria Política
     institution: Universitat Pompeu Fabra
     year: 2013
-  - course: MA in Political Science
+  - course: Màster en Ciència Política
     institution: Universitat Pompeu Fabra
     year: 2009
-  - course: BA in Political Science
+  - course: Llicenciatura en Ciències Polítiques i de l'Administració
     institution: Universitat Pompeu Fabra
     year: 2008
 
@@ -85,8 +85,8 @@ highlight_name: false
 ---
 
 
-Hola! I am **Marc Sanjaume-Calvet**, Assistant Professor of Political Theory in the [Department of Political and Social Sciences](https://www.upf.edu/web/politiques) at [Universitat Pompeu Fabra](https://www.upf.edu). Member of the [Political Theory Research Group](https://www.upf.edu/web/grtp). Coordinator of the [Master in Current Democracies](https://www.upf.edu/web/masters/master-en-democracies-actuals-nacionalisme-federalisme-i-multiculturalitat) program. 
+Benviguts a la meva pàgina web! Sóc en **Marc Sanjaume-Calvet**, Professor Lector de Teoria Política al [Department of Political and Social Sciences](https://www.upf.edu/web/politiques) de la [Universitat Pompeu Fabra](https://www.upf.edu). Membre del [Grup de Recerca en Teoria Política](https://www.upf.edu/web/grtp). Coordinador del programa de [Màster en Democràcies Actuals](https://www.upf.edu/web/masters/master-en-democracies-actuals-nacionalisme-federalisme-i-multiculturalitat). 
 
-Former Assistant Professor at [Universitat Oberta de Catalunya](https://www.uoc.edu), Advisor at [Self-Government Studies Institute - Institut d'Estudis de l'Autogovern](https://presidencia.gencat.cat/ca/ambits_d_actuacio/desenvolupament_autogovern/institut-destudis-autogovern/) and Visiting Researcher at Edinburgh University (Scotland) and Laval University (Quebec). I also was a Postdoctoral Researcher at the [Centre de recherche interdisciplinaire sur la diversité et la démocratie at Université du Québec à Montréal](https://cridaq.uqam.ca/). My research has been published in the *Journal of Politics*, *Party Politics*, *Nations and Nationalism*, *Canadian Journal of Political Science* and *Representation* among others.  
+Anteriorment vaig ser Professor Lector a la [Universitat Oberta de Catalunya](https://www.uoc.edu), Assessor a l'[Institut d'Estudis de l'Autogovern](https://presidencia.gencat.cat/ca/ambits_d_actuacio/desenvolupament_autogovern/institut-destudis-autogovern/) i Investigador Visitant a la Universitat d'Edimburg (Escòcia) i de Laval (Quebec). També vaig ser investigador postdoctoral al [Centre de recherche interdisciplinaire sur la diversité et la démocratie at Université du Québec à Montréal](https://cridaq.uqam.ca/). La meva recerca s'ha publicat a les revistes *Journal of Politics*, *Party Politics*, *Nations and Nationalism*, *Canadian Journal of Political Science* and *Representation* entre d'altres.  
 
 

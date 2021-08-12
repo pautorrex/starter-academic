@@ -37,7 +37,7 @@ education:
   - course: Màster en Ciència Política
     institution: Universitat Pompeu Fabra
     year: 2009
-  - course: Llicenciatura en Ciències Polítiques i de l'Administració
+  - course: Llicenciatura en Ciències Polítiques
     institution: Universitat Pompeu Fabra
     year: 2008
 

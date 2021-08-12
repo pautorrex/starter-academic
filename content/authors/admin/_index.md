@@ -1,7 +1,7 @@
 ---
 # Display name
-title: <p>Marc 
-      <br /> Sanjaume-Calvet<p>
+title: Marc\ 
+       Sanjaume-Calvet
 
 # Is this the primary user of the site?
 superuser: true

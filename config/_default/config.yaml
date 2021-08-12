@@ -67,14 +67,13 @@ related:
     - name: categories
       weight: 70
 
-Languages:
-  Languages.en:
-    languageName: "English"
-    weight: 1
+languages:
+  en:
+    languageName: English
+    weight: 10
 
-Languages:
-  Languages.en:
-    languageName: "Catalan"
-    weight: 2
+  ca:
+    languageName: Catalan
+    weight: 20
 
 

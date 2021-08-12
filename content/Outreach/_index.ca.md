@@ -1,5 +1,5 @@
 ---
-title: Mitjans
+title:    
 type: single
 
 view: 2

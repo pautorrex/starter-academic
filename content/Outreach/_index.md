@@ -1,5 +1,5 @@
 ---
-title: Outreach and Media
+title:    
 type: single
 
 view: 2

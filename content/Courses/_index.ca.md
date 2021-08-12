@@ -1,5 +1,5 @@
 ---
-title: Docència
+title:    
 type: single
 
 view: 2

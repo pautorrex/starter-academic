@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Marc\ 
+title: Marc<br> 
        Sanjaume-Calvet
 
 # Is this the primary user of the site?

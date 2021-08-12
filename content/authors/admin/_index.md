@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Marc &#13; Sanjaume-Calvet
+title: Marc <br/> Sanjaume-Calvet
 
 # Is this the primary user of the site?
 superuser: true

@@ -12,6 +12,87 @@ copyright: '© 2021 Marc Sanjaume-Calvet'
 ############################
 
 defaultContentLanguage: en
+
+languages:
+  en:
+    languageName: English
+    weight: 10
+
+  ca:
+    languageName: Catalan
+    weight: 20
+
+languages:
+  en:
+    languageName: English
+    menu:
+      main:
+
+      - name: About
+        url: '#about'
+        weight: 10
+      - name: Recent publications
+        url: '#recentpublications'
+        weight: 20
+      - name: Courses
+        url: /Courses/
+        weight: 40
+        identifier: "Courses"
+      - name: Publications
+        url: /Publications/
+        weight: 30
+        identifier : "Publications"
+      - name: Current research
+        url: /Research/
+        weight: 50
+        identifier : "Research"
+      - name: Outreach
+        url: /Outreach/
+        weight: 60
+        identifier : "Outreach"
+      - name: CV
+        url: https://msanjaume.netlify.app/uploads/resume.pdf
+        weight: 70
+      - name: Contact
+        url: '#contact'
+        weight: 80
+
+languages:
+  ca:
+    languageName: Catalan
+    menu:
+      main:
+
+      - name: Sobre mi
+        url: '#about'
+        weight: 10
+      - name: Recent publications
+        url: '#recentpublications'
+        weight: 20
+      - name: Courses
+        url: /Courses/
+        weight: 40
+        identifier: "Courses"
+      - name: Publications
+        url: /Publications/
+        weight: 30
+        identifier : "Publications"
+      - name: Current research
+        url: /Research/
+        weight: 50
+        identifier : "Research"
+      - name: Outreach
+        url: /Outreach/
+        weight: 60
+        identifier : "Outreach"
+      - name: CV
+        url: https://msanjaume.netlify.app/uploads/resume.pdf
+        weight: 70
+      - name: Contact
+        url: '#contact'
+        weight: 80
+
+
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
@@ -66,14 +147,5 @@ related:
       weight: 100
     - name: categories
       weight: 70
-
-languages:
-  en:
-    languageName: English
-    weight: 10
-
-  ca:
-    languageName: Catalan
-    weight: 20
 
 

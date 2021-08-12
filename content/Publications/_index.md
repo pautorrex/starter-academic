@@ -1,5 +1,5 @@
 ---
-title: Publicacions
+title: Publications
 
 
 type: page

@@ -1,5 +1,5 @@
 ---
-title: Altres publicacions
+title: Revistes divulgatives i articles diversos
 type: single
 summary: " "
 

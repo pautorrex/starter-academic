@@ -1,7 +1,6 @@
 ---
 # Display name
-title: Marc{<br>} 
-       Sanjaume-Calvet
+title:  Marc &nbsp; Sanjaume-Calvet {{ .portrait-title | safeHTML }}
 
 # Is this the primary user of the site?
 superuser: true

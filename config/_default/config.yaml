@@ -63,7 +63,7 @@ languages:
     menu:
       main:
 
-      - name: Sobre mi
+      - name: Jo
         url: '#about'
         weight: 10
       - name: Publicacions recents

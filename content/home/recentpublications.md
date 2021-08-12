@@ -22,3 +22,5 @@ I have recently published a paper in the *Canadian Journal of Political Science/
 * Sanjaume-Calvet, M. 2021.  ['Griffiths, Ryan D., and Muro, Diego (eds.) (2020). Strategies of Secession and Counter-Secession. ECPR Press. 244 pages.'](http://www.google.com/url?q=http%3A%2F%2Fwww.lastorresdelucca.org%2Findex.php%2Fojs%2Farticle%2Fview%2F478&sa=D&sntz=1&usg=AFQjCNHjcrR321a5aTiRwb6QPFNDK0IxEA), *Las Torres de Lucca. International Journal of Political Philosophy*, 10(18), pp. 279--284.<br/><br/>
 
 * Sanjaume-Calvet, M. 2021. [*Independència i Progrés. El repte democràtic de l'Scottish National Party*](https://www.google.com/url?q=https%3A%2F%2Fwww.saldonar.com%2Fllibre%2Findependencia-i-progres&sa=D&sntz=1&usg=AFQjCNH0ct8Ra1EOwJefmP8wSeeyKgcBZw). Saldonar.
+
+* See the [Publications](/Publications/) section for more information.

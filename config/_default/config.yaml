@@ -66,30 +66,30 @@ languages:
       - name: Sobre mi
         url: '#about'
         weight: 10
-      - name: Recent publications
+      - name: Publicacions recents
         url: '#recentpublications'
         weight: 20
-      - name: Courses
+      - name: Docència
         url: /Courses/
         weight: 40
         identifier: "Courses"
-      - name: Publications
+      - name: Publicacions
         url: /Publications/
         weight: 30
         identifier : "Publications"
-      - name: Current research
+      - name: Recerca actual
         url: /Research/
         weight: 50
         identifier : "Research"
-      - name: Outreach
+      - name: Mitjans
         url: /Outreach/
         weight: 60
         identifier : "Outreach"
       - name: CV
         url: https://msanjaume.netlify.app/uploads/resume.pdf
         weight: 70
-      - name: Contact
-        url: '#contact'
+      - name: Contacte
+        url: '#Contacte'
         weight: 80
 
 

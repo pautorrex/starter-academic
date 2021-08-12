@@ -4,32 +4,62 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: About
-    url: '#about'
-    weight: 10
-  - name: Recent publications
-    url: '#recentpublications'
-    weight: 20
-  - name: Courses
-    url: /Courses/
-    weight: 40
-    identifier: "Courses"
-  - name: Publications
-    url: /Publications/
-    weight: 30
-    identifier : "Publications"
-  - name: Current research
-    url: /Research/
-    weight: 50
-    identifier : "Research"
-  - name: Outreach
-    url: /Outreach/
-    weight: 60
-    identifier : "Outreach"
-  - name: CV
-    url: https://msanjaume.netlify.app/uploads/resume.pdf
-    weight: 70
-  - name: Contact
-    url: '#contact'
-    weight: 80
+  en:
+    - name: About
+      url: '#about'
+      weight: 10
+    - name: Recent publications
+      url: '#recentpublications'
+      weight: 20
+    - name: Courses
+      url: /Courses/
+      weight: 40
+      identifier: "Courses"
+    - name: Publications
+      url: /Publications/
+      weight: 30
+      identifier : "Publications"
+    - name: Current research
+      url: /Research/
+      weight: 50
+      identifier : "Research"
+    - name: Outreach
+      url: /Outreach/
+      weight: 60
+      identifier : "Outreach"
+    - name: CV
+      url: https://msanjaume.netlify.app/uploads/resume.pdf
+      weight: 70
+    - name: Contact
+      url: '#contact'
+      weight: 80
+  ca:
+    - name: Sobre mi
+      url: '#about'
+      weight: 10
+    - name: Recent publications
+      url: '#recentpublications'
+      weight: 20
+    - name: Courses
+      url: /Courses/
+      weight: 40
+      identifier: "Courses"
+    - name: Publications
+      url: /Publications/
+      weight: 30
+      identifier : "Publications"
+    - name: Current research
+      url: /Research/
+      weight: 50
+      identifier : "Research"
+    - name: Outreach
+      url: /Outreach/
+      weight: 60
+      identifier : "Outreach"
+    - name: CV
+      url: https://msanjaume.netlify.app/uploads/resume.pdf
+      weight: 70
+    - name: Contact
+      url: '#contact'
+      weight: 80
 

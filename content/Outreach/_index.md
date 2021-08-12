@@ -30,3 +30,4 @@ header:
 * [Libertalia](https://www.google.com/url?q=https%3A%2F%2Fwww.revistalibertalia.com%2Fsingle-post%2F2020%2F01%2F16%2FTeorias-secesion-Charla-con-Marc-Sanjaume&sa=D&sntz=1&usg=AFQjCNFVb7jFo8hQUqegXjHIycC4TqpMnQ)
 
 
+{{ < embed-pdf url="https://msanjaume.netlify.app/uploads/resume.pdf" > }}

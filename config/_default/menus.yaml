@@ -26,9 +26,9 @@ main:
     url: /Outreach/
     weight: 60
     identifier : "Outreach"
-  - name: CV
-    url: https://msanjaume.netlify.app/uploads/resume.pdf
-    weight: 70
+  #name: CV
+    #url: https://msanjaume.netlify.app/uploads/resume.pdf
+    #weight: 70
   - name: Contact
     url: '#contact'
     weight: 80

@@ -9,6 +9,8 @@ header:
   image: ""
 ---
 
+<img align="left" width="100" height="100" src="https://elpatidescobert.cat/wp-content/uploads/2020/04/pati2marge2.jpg">
+
 * [Nació Digital. El Pati Descobert](https://www.google.com/url?q=https%3A%2F%2Fwww.naciodigital.cat%2Felpatidescobert&sa=D&sntz=1&usg=AFQjCNHblpA9mtjvHMdPUnuydVHLqT95SQ)
 
 * [Diari Ara. El Pati Descobert](http://www.google.com/url?q=http%3A%2F%2Fblogspersonals.ara.cat%2Felpatidescobert%2Fblog%2Fetiqueta%2Fmarc-sanjaume%2Fpage%2F6%2F&sa=D&sntz=1&usg=AFQjCNFXufu-o0Pn-Cx3gnSmDLFCC6ec3w)

@@ -9,7 +9,7 @@ header:
   image: ""
 ---
 
-<img align="left" width="100" height="100" src="https://elpatidescobert.cat/wp-content/uploads/2020/04/pati2marge2.jpg">
+<img align="left" width="100" height="100" style="float:left" src="https://elpatidescobert.cat/wp-content/uploads/2020/04/pati2marge2.jpg">
 
 * [Nació Digital. El Pati Descobert](https://www.google.com/url?q=https%3A%2F%2Fwww.naciodigital.cat%2Felpatidescobert&sa=D&sntz=1&usg=AFQjCNHblpA9mtjvHMdPUnuydVHLqT95SQ)
 

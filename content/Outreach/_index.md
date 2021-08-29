@@ -9,6 +9,7 @@ header:
   image: ""
 ---
 
+
 * [Nació Digital. El Pati Descobert](https://www.google.com/url?q=https%3A%2F%2Fwww.naciodigital.cat%2Felpatidescobert&sa=D&sntz=1&usg=AFQjCNHblpA9mtjvHMdPUnuydVHLqT95SQ)
 
 * [Diari Ara. El Pati Descobert](http://www.google.com/url?q=http%3A%2F%2Fblogspersonals.ara.cat%2Felpatidescobert%2Fblog%2Fetiqueta%2Fmarc-sanjaume%2Fpage%2F6%2F&sa=D&sntz=1&usg=AFQjCNFXufu-o0Pn-Cx3gnSmDLFCC6ec3w)
@@ -28,6 +29,5 @@ header:
 * [Libération](https://www.google.com/url?q=https%3A%2F%2Fwww.liberation.fr%2Fauteur%2F17991-marc-sanjaume-calvet&sa=D&sntz=1&usg=AFQjCNHIVZC8oKxZ2zSd8fRaWBDKAxS-Fw)
 
 * [Libertalia](https://www.google.com/url?q=https%3A%2F%2Fwww.revistalibertalia.com%2Fsingle-post%2F2020%2F01%2F16%2FTeorias-secesion-Charla-con-Marc-Sanjaume&sa=D&sntz=1&usg=AFQjCNFVb7jFo8hQUqegXjHIycC4TqpMnQ)
-
 
 

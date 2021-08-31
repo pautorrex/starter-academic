@@ -85,7 +85,7 @@ highlight_name: false
 ---
 
 
-Benvinguts/des a la meva web! Sóc en **Marc Sanjaume-Calvet**, Professor Lector de Teoria Política al [Department of Political and Social Sciences](https://www.upf.edu/web/politiques) de la [Universitat Pompeu Fabra](https://www.upf.edu). Membre del [Grup de Recerca en Teoria Política](https://www.upf.edu/web/grtp). Coordinador del programa de [Màster en Democràcies Actuals](https://www.upf.edu/web/masters/master-en-democracies-actuals-nacionalisme-federalisme-i-multiculturalitat). 
+Benvinguts/des a la meva web! Sóc en **Marc Sanjaume-Calvet**, Professor Lector de Teoria Política al [Department de Ciències Polítiques i Socials](https://www.upf.edu/web/politiques) de la [Universitat Pompeu Fabra](https://www.upf.edu). Membre del [Grup de Recerca en Teoria Política](https://www.upf.edu/web/grtp). Coordinador del programa de [Màster en Democràcies Actuals](https://www.upf.edu/web/masters/master-en-democracies-actuals-nacionalisme-federalisme-i-multiculturalitat). 
 
 Anteriorment vaig ser Professor Lector a la [Universitat Oberta de Catalunya](https://www.uoc.edu), Assessor a l'[Institut d'Estudis de l'Autogovern](https://presidencia.gencat.cat/ca/ambits_d_actuacio/desenvolupament_autogovern/institut-destudis-autogovern/) i Investigador Visitant a la Universitat d'Edimburg (Escòcia) i de Laval (Quebec). També vaig ser investigador postdoctoral al [Centre de recherche interdisciplinaire sur la diversité et la démocratie at Université du Québec à Montréal](https://cridaq.uqam.ca/). La meva recerca s'ha publicat a les revistes *Journal of Politics*, *Party Politics*, *Nations and Nationalism*, *Canadian Journal of Political Science* and *Representation* entre d'altres.  
 

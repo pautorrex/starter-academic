@@ -21,7 +21,7 @@ languages:
   ca:
     languageName: Catalan
     weight: 20
-    url: https://msanjaume.netlify.app/ca/
+    url: http://msanjaume.netlify.app/ca/
 
 languages:
   en:

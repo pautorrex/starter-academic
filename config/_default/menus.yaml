@@ -22,10 +22,10 @@ main:
     url: /Research/
     weight: 50
     identifier : "Research"
-  - name: Outreach
-    url: /Outreach/
-    weight: 60
-    identifier : "Outreach"
+  #name: Outreach
+        #url: /Outreach/
+        #weight: 60
+        #identifier : "Outreach"
   #name: CV
     #url: https://msanjaume.netlify.app/uploads/resume.pdf
     #weight: 70

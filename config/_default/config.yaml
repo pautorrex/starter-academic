@@ -47,10 +47,10 @@ languages:
         url: /Research/
         weight: 50
         identifier : "Research"
-      - name: Outreach
-        url: /Outreach/
-        weight: 60
-        identifier : "Outreach"
+      #name: Outreach
+        #url: /Outreach/
+        #weight: 60
+        #identifier : "Outreach"
       #name: CV
         #url: https://msanjaume.netlify.app/uploads/resume.pdf
         #weight: 70
@@ -82,10 +82,10 @@ languages:
         url: /Research/
         weight: 50
         identifier : "Research"
-      - name: Mitjans
-        url: /Outreach/
-        weight: 60
-        identifier : "Outreach"
+      #name: Mitjans
+        #url: /Outreach/
+        #weight: 60
+        #identifier : "Outreach"
        #name: CV
         #url: https://msanjaume.netlify.app/uploads/resume.pdf
         #weight: 70

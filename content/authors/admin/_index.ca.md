@@ -49,9 +49,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: cv
-  icon_pack: ai
-  link: uploads/resume.pdf
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.es/citations?user=48oozN8AAAAJ&hl=es

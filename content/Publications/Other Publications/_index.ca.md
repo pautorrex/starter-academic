@@ -10,6 +10,8 @@ header:
   image: ""
 ---
 
+* Sanjaume-Calvet, M. 2021. "[Per un independentisme científic: una lectura comparada dels casos de Quebec i Escòcia](https://raco.cat/index.php/Eines/article/view/394716)", *Eines per a l'esquerra nacional*, 42, 52-63.<br/><br/>
+
 * Requejo, F.; Sanjaume-Calvet, M. 2019. "[Independence referendums. Catalonia in perspective](http://www.google.com/url?q=http%3A%2F%2Frevistes.iec.cat%2Findex.php%2FCSSr%2Farticle%2Fview%2F145988&sa=D&sntz=1&usg=AFQjCNFqdWF_YvULrhkorgsIbvUlApNmsA)", *Catalan Social Sciences Review*, 9, 1-18.<br/><br/>
 
 * Requejo, F.; Sanjaume-Calvet, M. 2019. "[Referèndums d'independència. Catalunya en perspectiva](http://www.google.com/url?q=http%3A%2F%2Fwww.revistadecatalunya.cat%2Fca%2Feditorial-detall.asp%3Fid%3D71&sa=D&sntz=1&usg=AFQjCNH8Hbi4rt3azdJYEW0pktSnuHUaPA)" , *Revista de Catalunya,* 308, 77-101.<br/><br/>

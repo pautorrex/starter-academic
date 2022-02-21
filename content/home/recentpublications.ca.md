@@ -16,9 +16,9 @@
 
 * Sanjaume-Calvet, M. 2022. ["Democracy and secessionism: constitutional firewalls and an emerging accommodational paradigm"](https://www.e-elgar.com/shop/gbp/comparative-election-law-9781788119016.html), In: Gardner, James A. (ed.) *Comparative Election Law*, Edward Elgar Publishing, pp. 114-138.<br/><br/>
 
-* Sanjaume-Calvet, M. 2022."[Notes sur le droit de sécession du point de vue de la science et de la théorie politiques. Une approche démocratique?](https://www.sqdi.org/fr/notes-sur-le-droit-de-secession-du-point-de-vue-de-la-science-et-de-la-theorie-politiques-une-approche-democratique/)", *Revue québécoise de droit international*, Janvier, 179-189.<br/><br/>
+* Sanjaume-Calvet, M. 2022. ["Notes sur le droit de sécession du point de vue de la science et de la théorie politiques. Une approche démocratique?"](https://www.sqdi.org/fr/notes-sur-le-droit-de-secession-du-point-de-vue-de-la-science-et-de-la-theorie-politiques-une-approche-democratique/), *Revue québécoise de droit international*, Janvier, 179-189.<br/><br/>
 
-
+* Sanjaume-Calvet M, Riera-Gil E. 2022. "[Languages, secessionism and party competition in Catalonia: A case of de-ethnicising outbidding?](https://www.google.com/url?q=https%3A%2F%2Fjournals.sagepub.com%2Fdoi%2Ffull%2F10.1177%2F1354068820960382&sa=D&sntz=1&usg=AFQjCNFYi0bMWsiP3WBkwILTanktPMEVpA)", *Party Politics*, 28(1), 85-104.   DOI: 10.1177/1354068820960382.<br/><br/>
 
 * Vegeu l'apartat de [Publicacions](/Publications/) per a més informació.<br/><br/>
 

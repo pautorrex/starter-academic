@@ -19,11 +19,9 @@ bio: Assistant Professor at Universitat Pompeu Fabra, Barcelona.
 # Interests to show in About widget
 interests:
 - Federalism & Secessionism
-- National Self-Determination
 - Social & Cultural Justice
-- Political Realism
 - Political Theory
-- Political Philosophy
+
 
 # Education to show in About widget
 education:
@@ -34,12 +32,6 @@ education:
   - course: PhD in Political Theory
     institution: Universitat Pompeu Fabra
     year: 2013
-  - course: MA in Political Science
-    institution: Universitat Pompeu Fabra
-    year: 2009
-  - course: BA in Political Science
-    institution: Universitat Pompeu Fabra
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

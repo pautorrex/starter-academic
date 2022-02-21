@@ -9,6 +9,9 @@ header:
   caption: ""
   image: ""
 ---
+
+* Sanjaume-Calvet, M. 2022."[Notes sur le droit de sécession du point de vue de la science et de la théorie politiques. Une approche démocratique?](https://www.sqdi.org/fr/notes-sur-le-droit-de-secession-du-point-de-vue-de-la-science-et-de-la-theorie-politiques-une-approche-democratique/)", *Revue québécoise de droit international*, Janvier, 179-189.<br/><br/>
+
 * Sanjaume-Calvet, M. 2021. "[Per un independentisme científic: una lectura comparada dels casos de Quebec i Escòcia](https://raco.cat/index.php/Eines/article/view/394716)", *Eines per a l'esquerra nacional*, 42, 52-63.<br/><br/>
 
 * Requejo, F.; Sanjaume-Calvet, M. 2019. "[Independence referendums. Catalonia in perspective](http://www.google.com/url?q=http%3A%2F%2Frevistes.iec.cat%2Findex.php%2FCSSr%2Farticle%2Fview%2F145988&sa=D&sntz=1&usg=AFQjCNFqdWF_YvULrhkorgsIbvUlApNmsA)", *Catalan Social Sciences Review*, 9, 1-18.<br/><br/>

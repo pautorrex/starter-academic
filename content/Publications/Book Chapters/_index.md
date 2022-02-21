@@ -10,6 +10,8 @@ header:
   image: ""
 ---
 
+* Sanjaume-Calvet, M. 2022. ["Democracy and secessionism: constitutional firewalls and an emerging accommodational paradigm"](https://www.e-elgar.com/shop/gbp/comparative-election-law-9781788119016.html), In: Gardner, James A. (ed.) *Comparative Election Law*, Edward Elgar Publishing, pp. 114-138.<br/><br/>
+
 * Vallbé, J.J.; Sanjaume-Calvet, M. 2021. ["Spain. A "Cardboard Model" of MP Floor Participation"](https://books.google.es/books?id=Oi5CEAAAQBAJ&pg=PA692&lpg=PA692&dq=Spain.+A+%22Cardboard+Model%22+of+MP+Floor+Participation&source=bl&ots=NiaHHW32V3&sig=ACfU3U10WDipwn4BTiL7k16XpOGX47etHw&hl=es&sa=X&ved=2ahUKEwj9i7Hm_-nzAhUCtRoKHRBlAt4Q6AF6BAgCEAM#v=onepage&q=Spain.%20A%20%22Cardboard%20Model%22%20of%20MP%20Floor%20Participation&f=false), In: Bäck, H.; Debus, M.; Fernandes, J.M. (ed.) *The politics of legislative debates*, Oxford University Press, pp. 692-712.<br/><br/>
 
 * Sanjaume-Calvet, M. 2020. ["An EU approach to internal secession"](https://www.google.com/url?q=https%3A%2F%2Fideasforeurope.eu%2Factivity%2Fpublication%2Fself-determination-in-a-context-of-shared-sovereignty%2F&sa=D&sntz=1&usg=AFQjCNHbuO4IYr2GCf1Q9UM-vCMMUZLTnQ), In: Antunes, S. (ed.) *Self-Determination in a Context of Shared Sovereignty How to devise a European* *approach?*, Coppieters Foundation.<br/><br/>

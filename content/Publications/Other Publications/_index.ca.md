@@ -10,6 +10,8 @@ header:
   image: ""
 ---
 
+* Sanjaume-Calvet, M.; Jordi Mas; Ivan Serrano. 2022. ["Els moviments per l'autodeterminació a Europa"](https://irla.cat/wp-content/uploads/2022/03/autodeterminacio%CC%81_v5.pdf), Fundació Josep Irla / Coppieters Foundation.<br/><br/>
+
 * Sanjaume-Calvet, M. 2022."[Notes sur le droit de sécession du point de vue de la science et de la théorie politiques. Une approche démocratique?](https://www.sqdi.org/fr/notes-sur-le-droit-de-secession-du-point-de-vue-de-la-science-et-de-la-theorie-politiques-une-approche-democratique/)", *Revue québécoise de droit international*, Janvier, 179-189.<br/><br/>
 
 

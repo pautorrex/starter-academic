@@ -9,6 +9,8 @@ header:
   image: ""
 ---
 
+* Marc Sanjaume-Calvet (2022) ['Comparative federalism and Covid-19. Combating the pandemic'](https://www.tandfonline.com/doi/citedby/10.1080/13597566.2022.2066083?scroll=top&needAccess=true), Regional & Federal Studies, DOI: 10.1080/13597566.2022.2066083. <br/><br/>
+
 * Sanjaume-Calvet, M. 2021.  ['Griffiths, Ryan D., and Muro, Diego (eds.) (2020). Strategies of Secession and Counter-Secession. ECPR Press. 244 pages.'](http://www.google.com/url?q=http%3A%2F%2Fwww.lastorresdelucca.org%2Findex.php%2Fojs%2Farticle%2Fview%2F478&sa=D&sntz=1&usg=AFQjCNHjcrR321a5aTiRwb6QPFNDK0IxEA), Las Torres de Lucca. International Journal of Political Philosophy, 10(18), pp. 279--284.<br/><br/>
 
 * Sanjaume‐Calvet, M. 2020. "[Fradera, Josep M., The Imperial Nation. Citizens and Subjects in the British, French, Spanish and American Empires](https://www.google.com/url?q=https%3A%2F%2Fonlinelibrary.wiley.com%2Fdoi%2F10.1111%2Fnana.12632&sa=D&sntz=1&usg=AFQjCNGbkVuXfkLaT0YFSkMMmH_hs7eijw)"*,* trans. Ruth Mackay. Princeton: Princeton University Press, 2018. 416 pp. $39.50 (hbk).. Nations and Nationalism, 26: 784-785. doi:[10.1111/nana.12632](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1111%2Fnana.12632&sa=D&sntz=1&usg=AFQjCNE1qVHUeJdt5GkrcoHGoPOhNJXHnw)<br/><br/>

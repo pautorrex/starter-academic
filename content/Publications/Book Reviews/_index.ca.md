@@ -9,7 +9,7 @@ header:
   image: ""
 ---
 
-* Marc Sanjaume-Calvet (2022) ['Comparative federalism and Covid-19. Combating the pandemic'](https://www.tandfonline.com/doi/citedby/10.1080/13597566.2022.2066083?scroll=top&needAccess=true), Regional & Federal Studies, DOI: 10.1080/13597566.2022.2066083. <br/><br/>
+* Sanjaume-Calvet, M. (2022) ['Comparative federalism and Covid-19. Combating the pandemic'](https://www.tandfonline.com/doi/citedby/10.1080/13597566.2022.2066083?scroll=top&needAccess=true), Regional & Federal Studies, DOI: 10.1080/13597566.2022.2066083. <br/><br/>
 
 * Sanjaume-Calvet, M. 2021.  ['Griffiths, Ryan D., and Muro, Diego (eds.) (2020). Strategies of Secession and Counter-Secession. ECPR Press. 244 pages.'](http://www.google.com/url?q=http%3A%2F%2Fwww.lastorresdelucca.org%2Findex.php%2Fojs%2Farticle%2Fview%2F478&sa=D&sntz=1&usg=AFQjCNHjcrR321a5aTiRwb6QPFNDK0IxEA), Las Torres de Lucca. International Journal of Political Philosophy, 10(18), pp. 279--284.<br/><br/>
 

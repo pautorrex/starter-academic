@@ -9,7 +9,7 @@ header:
   image: ""
 ---
 
-* Sanjaume-Calvet, M. 2022. ['Un diccionari en defensa de la democràcia'](https://doi.org/10.2436/rld.i77.2022.3827). Recensió del Parlament de Catalunya, Departament de la Presidència, i Centre de Terminologia, TERMCAT. (2022). “Diccionari de l’activitat parlamentària”’. Revista de Llengua i Dret, 77: 286–88.
+* Sanjaume-Calvet, M. 2022. ['Un diccionari en defensa de la democràcia'](https://doi.org/10.2436/rld.i77.2022.3827). Recensió del Parlament de Catalunya, Departament de la Presidència, i Centre de Terminologia, TERMCAT. (2022). “Diccionari de l’activitat parlamentària”’. Revista de Llengua i Dret, 77: 286–88.<br/><br/>
 
 * Sanjaume-Calvet, M. 2022. ['Comparative federalism and Covid-19. Combating the pandemic'](https://www.tandfonline.com/doi/citedby/10.1080/13597566.2022.2066083?scroll=top&needAccess=true), Regional & Federal Studies, DOI: 10.1080/13597566.2022.2066083. <br/><br/>
 

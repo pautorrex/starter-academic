@@ -14,6 +14,8 @@
   weight : 30
 ---
 
+* [Forthcoming] Requejo, F.; Sanjaume-Calvet (eds.). 2022. ["Defensive Federalism Protecting Territorial Minorities from the "Tyranny of the Majority""](https://www.routledge.com/Defensive-Federalism-Protecting-Territorial-Minorities-from-the-Tyranny/Requejo-Sanjaume-Calvet/p/book/9781032281964), Routledge.<br/><br/> 
+
 * Sanjaume-Calvet, M.; Jordi Mas; Ivan Serrano. 2022. ["Els moviments per l'autodeterminació a Europa"](https://irla.cat/wp-content/uploads/2022/03/autodeterminacio%CC%81_v5.pdf), Fundació Josep Irla / Coppieters Foundation.<br/><br/>
 
 * Sanjaume-Calvet, M. 2022. ["Democracy and secessionism: constitutional firewalls and an emerging accommodational paradigm"](https://www.e-elgar.com/shop/gbp/comparative-election-law-9781788119016.html), In: Gardner, James A. (ed.) *Comparative Election Law*, Edward Elgar Publishing, pp. 114-138.<br/><br/>

@@ -43,7 +43,7 @@ languages:
         url: /Publications/
         weight: 30
         identifier : "Publications"
-      - name: Current research
+      - name: Research projects
         url: /Research/
         weight: 50
         identifier : "Research"
@@ -78,7 +78,7 @@ languages:
         url: /Publications/
         weight: 30
         identifier : "Publications"
-      - name: Recerca actual
+      - name: Projectes de recerca
         url: /Research/
         weight: 50
         identifier : "Research"

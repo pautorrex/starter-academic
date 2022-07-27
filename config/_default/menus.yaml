@@ -18,7 +18,7 @@ main:
     url: /Publications/
     weight: 30
     identifier : "Publications"
-  - name: Current research
+  - name: Research projects
     url: /Research/
     weight: 50
     identifier : "Research"

@@ -18,9 +18,11 @@ bio: Assistant Professor at Universitat Pompeu Fabra, Barcelona.
 
 # Interests to show in About widget
 interests:
-- Federalisme i Secessió
-- Justícia Social i Cultural
-- Teoria Política
+- Federalisme
+- Secessió
+- Justícia cultural
+- Justícia social
+- Democràcia
 
 
 # Education to show in About widget

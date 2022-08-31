@@ -9,7 +9,7 @@ header:
   caption: ""
   image: ""
 ---
-* Sanjaume-Calvet, M.. 2022. ["Populismes: fenomenologia i estructura"](https://dialnet.unirioja.es/servlet/revista?codigo=14056), *Qüestions de vida cristiana*, 273: 15-27.<br/><br/>
+* Sanjaume-Calvet, M. 2022. ["Populismes: fenomenologia i estructura"](https://dialnet.unirioja.es/servlet/revista?codigo=14056), *Qüestions de vida cristiana*, 273: 15-27.<br/><br/>
 
 * Sanjaume-Calvet, M.; Jordi Mas; Ivan Serrano. 2022. ["Els moviments per l'autodeterminació a Europa"](https://irla.cat/wp-content/uploads/2022/03/autodeterminacio%CC%81_v5.pdf), Fundació Josep Irla / Coppieters Foundation.<br/><br/>
 

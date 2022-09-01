@@ -9,6 +9,8 @@ header:
   caption: ""
   image: ""
 ---
+* Sanjaume-Calvet, Marc, Berta Barbet Porta and Mireia Grau Creus. 2022. ["Catalan self-government: from autonomy to self-determination?"](https://www.world-autonomies.info/territorial-autonomies/catalonia). In Autonomy Arrangements in the World, 2nd edition. <br/><br/>
+
 * Sanjaume-Calvet, M. 2022. ["Populismes: fenomenologia i estructura"](https://dialnet.unirioja.es/servlet/revista?codigo=14056), *Qüestions de vida cristiana*, 273: 15-27.<br/><br/>
 
 * Sanjaume-Calvet, M.; Jordi Mas; Ivan Serrano. 2022. ["Els moviments per l'autodeterminació a Europa"](https://irla.cat/wp-content/uploads/2022/03/autodeterminacio%CC%81_v5.pdf), Fundació Josep Irla / Coppieters Foundation.<br/><br/>

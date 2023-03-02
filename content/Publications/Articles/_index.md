@@ -10,6 +10,8 @@ header:
   image: ""
 ---
 
+* Sanjaume-Calvet M.; Vallbé, Joan-Josep; Muñoz-Puig, M. 2023. "[Can women take the floor in parliament? Evidence from the Spanish lower chamber](https://www.sciencedirect.com/science/article/pii/S0277539523000213)", *Women's Studies International Forum*, 97. DOI: j.wsif.2023.102694.<br/><br/>
+
 * Sanjaume-Calvet M, Riera-Gil E. 2022. "[Languages, secessionism and party competition in Catalonia: A case of de-ethnicising outbidding?](https://www.google.com/url?q=https%3A%2F%2Fjournals.sagepub.com%2Fdoi%2Ffull%2F10.1177%2F1354068820960382&sa=D&sntz=1&usg=AFQjCNFYi0bMWsiP3WBkwILTanktPMEVpA)", *Party Politics*, 28(1), 85-104.   DOI: 10.1177/1354068820960382.<br/><br/>
 
 * Requejo, F.; Sanjaume-Calvet, M. 2021. [Explaining Secessionism: What Do We Really Know About It?](https://www.cogitatiopress.com/politicsandgovernance/article/view/4959). *Politics and Governance*, 9(4), 371-375. DOI:https://doi.org/10.17645/pag.v9i4.4959.<br/><br/>

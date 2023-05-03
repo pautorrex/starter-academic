@@ -10,6 +10,8 @@ header:
   image: ""
 ---
 
+* Sanjaume-Calvet M.; Cetrà, Daniel; Franco-Guillén, F. 2023. "[Leaving Europe, leaving Spain: comparing secessionism from and within the European Union](https://www.tandfonline.com/doi/full/10.1080/01402382.2023.2191104)", ***West European Politics***. DOI: 10.1080/01402382.2023.2191104.<br/><br/>
+
 * Sanjaume-Calvet M.; Vallbé, Joan-Josep; Muñoz-Puig, M. 2023. "[Can women take the floor in parliament? Evidence from the Spanish lower chamber](https://www.sciencedirect.com/science/article/pii/S0277539523000213)", ***Women's Studies International Forum***, 97. DOI: j.wsif.2023.102694.<br/><br/>
 
 * Sanjaume-Calvet M, Riera-Gil E. 2022. "[Languages, secessionism and party competition in Catalonia: A case of de-ethnicising outbidding?](https://www.google.com/url?q=https%3A%2F%2Fjournals.sagepub.com%2Fdoi%2Ffull%2F10.1177%2F1354068820960382&sa=D&sntz=1&usg=AFQjCNFYi0bMWsiP3WBkwILTanktPMEVpA)", ***Party Politics***, 28(1), 85-104.   DOI: 10.1177/1354068820960382.<br/><br/>

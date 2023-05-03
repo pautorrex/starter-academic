@@ -14,6 +14,8 @@
   weight : 30
 ---
 
+* Sanjaume-Calvet M.; Cetrà, Daniel; Franco-Guillén, F. 2023. "[Leaving Europe, leaving Spain: comparing secessionism from and within the European Union](https://www.tandfonline.com/doi/full/10.1080/01402382.2023.2191104)", ***West European Politics***. DOI: 10.1080/01402382.2023.2191104.<br/><br/>
+
 * Sanjaume-Calvet M.; Vallbé, Joan-Josep; Muñoz-Puig, M. 2023. "[Can women take the floor in parliament? Evidence from the Spanish lower chamber](https://www.sciencedirect.com/science/article/pii/S0277539523000213)", ***Women's Studies International Forum***, 97. DOI: j.wsif.2023.102694.<br/><br/>
 
 * Requejo, F.; Sanjaume-Calvet, M. (eds.). 2023. [Defensive Federalism Protecting Territorial Minorities from the "Tyranny of the Majority"](https://www.routledge.com/Defensive-Federalism-Protecting-Territorial-Minorities-from-the-Tyranny/Requejo-Sanjaume-Calvet/p/book/9781032281964), Routledge.<br/><br/> 

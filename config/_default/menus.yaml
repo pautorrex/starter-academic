@@ -7,7 +7,7 @@ main:
   - name: About
     url: '#about'
     weight: 10
-  - name: Recent publications
+  - name: Recent
     url: '#recentpublications'
     weight: 20
   - name: Courses
@@ -18,7 +18,7 @@ main:
     url: /Publications/
     weight: 30
     identifier : "Publications"
-  - name: Research projects
+  - name: Projects
     url: /Research/
     weight: 50
     identifier : "Research"

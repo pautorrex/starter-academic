@@ -32,7 +32,7 @@ languages:
       - name: About
         url: '#about'
         weight: 10
-      - name: Recent publications
+      - name: Novetats
         url: '#recentpublications'
         weight: 20
       - name: Courses
@@ -67,7 +67,7 @@ languages:
       - name: Jo
         url: '#about'
         weight: 10
-      - name: Publicacions recents
+      - name: Recent
         url: '#recentpublications'
         weight: 20
       - name: Docència

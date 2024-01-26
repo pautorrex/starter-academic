@@ -9,25 +9,62 @@ header:
   image: ""
 ---
 
+*Blog posts*
 
-* [Nació Digital. El Pati Descobert](https://www.google.com/url?q=https%3A%2F%2Fwww.naciodigital.cat%2Felpatidescobert&sa=D&sntz=1&usg=AFQjCNHblpA9mtjvHMdPUnuydVHLqT95SQ)
+* Cauces democráticos para Cataluña (5/11/2018) - [Agenda Pública](https://agendapublica.elpais.com/noticia/14611/cauces-democraticos-cataluna)
 
-* [Diari Ara. El Pati Descobert](http://www.google.com/url?q=http%3A%2F%2Fblogspersonals.ara.cat%2Felpatidescobert%2Fblog%2Fetiqueta%2Fmarc-sanjaume%2Fpage%2F6%2F&sa=D&sntz=1&usg=AFQjCNFXufu-o0Pn-Cx3gnSmDLFCC6ec3w)
+* Catalonia: From Secessionism to Secession? (15/01/2016) - [E-International Relations](https://www.e-ir.info/2016/01/15/catalonia-from-secessionism-to-secession/)
 
-* [Centre on Constitutional Change](https://www.google.com/url?q=https%3A%2F%2Fwww.centreonconstitutionalchange.ac.uk%2Fblog%2Fclear-mandate-uncertain-path-towards-catalan-sovereignty&sa=D&sntz=1&usg=AFQjCNFtLkm52E5ZIaLPiqI-vnku75THjw)
+* Secession  and Federalism: a Chiaroscuro (01/02/2016) - [Fifty Shades of Federalism](https://50shadesoffederalism.com/diversity-management/secession-federalism-chiaroscuro/)
 
-* [Fifty Shades of Federalism](http://www.google.com/url?q=http%3A%2F%2F50shadesoffederalism.com%2Fdiversity-management%2Fsecession-federalism-chiaroscuro%2F&sa=D&sntz=1&usg=AFQjCNF4MyBQUj315LgS-ojbmPu3H6F4Yw)
+* A clear mandate but an uncertain path towards Catalan sovereignty (30/10/2015) - [Centre on Constitutional Change](https://www.centreonconstitutionalchange.ac.uk/opinions/clear-mandate-uncertain-path-towards-catalan-sovereignty)
 
-* [E-International Relations](http://www.google.com/url?q=http%3A%2F%2Fwww.e-ir.info%2F2016%2F01%2F15%2Fcatalonia-from-secessionism-to-secession%2F&sa=D&sntz=1&usg=AFQjCNGrG-mwtW9viIRFidLvkWIe7OS7Iw)
 
-* [Agenda Pública](http://www.google.com/url?q=http%3A%2F%2Fagendapublica.elpais.com%2Fanalistas%2Fmarc-sanjaume%2F&sa=D&sntz=1&usg=AFQjCNGWQ05FFoQ6VuvWft8L2R5dvZ5n0Q)
+*Recent op-eds and political commentary*
 
-* [CTXT. Revista Contexto](https://www.google.com/url?q=https%3A%2F%2Fctxt.es%2Fes%2F20180502%2FFirmas%2F19391%2FLiberalismo-politica-teoria-espana-partidos.htm&sa=D&sntz=1&usg=AFQjCNEZ02QHtzemLiUAmwLYryxzfaKjTg)
+* L'autogovern: obstacle o impuls a la independència? (07/01/2024) - [Ara](https://www.ara.cat/opinio/l-autogovern-obstacle-impuls-independencia_129_4902512.html)
 
-* [Deia](https://www.google.com/url?q=https%3A%2F%2Fwww.deia.eus%2Fservicios%2Fbuscador%3Fcx%3D001346750670579699558%253Aynsi4zhjydm%26cof%3DFORID%253A11%26ie%3DUTF-8%26q%3Dmarc%2Bsanjaume%26sa%3DBuscar&sa=D&sntz=1&usg=AFQjCNHCIc7m7q6_oXny1Dm05l0vrOogRg)
+* Els acords amb el PSOE: victòria o fracàs? (23/11/2023) - [Ara](https://www.ara.cat/opinio/acords-d-investidura-psoe-victoria-fracas_129_4865898.html)
 
-* [Libération](https://www.google.com/url?q=https%3A%2F%2Fwww.liberation.fr%2Fauteur%2F17991-marc-sanjaume-calvet&sa=D&sntz=1&usg=AFQjCNHIVZC8oKxZ2zSd8fRaWBDKAxS-Fw)
+* Teorías de la secesión: Charla con Marc Sanjaume (17/01/2020) -  [Libertalia](https://revistalibertalia.com/single-post/2020/01/16/Teorias-secesion-Charla-con-Marc-Sanjaume)
 
-* [Libertalia](https://www.google.com/url?q=https%3A%2F%2Fwww.revistalibertalia.com%2Fsingle-post%2F2020%2F01%2F16%2FTeorias-secesion-Charla-con-Marc-Sanjaume&sa=D&sntz=1&usg=AFQjCNFVb7jFo8hQUqegXjHIycC4TqpMnQ)
+* ¿Centralitzar o descentralitzar la resposta a la covid-19? (01/04/2020) - [Ara](https://www.ara.cat/opinio/marc-sanjaume-centralitzar-descentralitzar-resposta-covid-19-coronavirus_129_1177032.html)
+
+* La fosca claredat canadenca (06/08/2019) - [Ara](https://www.ara.cat/opinio/ferran-requejo-marc-sanjaume_129_2654345.html)
+
+* Cuidado con los “liberales” (4/5/2018) - [CTXT. Revista Contexto](https://ctxt.es/es/20180502/Firmas/19391/Liberalismo-politica-teoria-espana-partidos.htm)
+
+* Pedrolo y el 21-D (08/01/2018)- [Deia](https://www.deia.eus/opinion/2018/01/02/pedrolo-21-d-4896166.html)
+
+* L'avenir de l'Europe se joue bien en Catalogne (26/09/2017) -  [Libération](https://www.liberation.fr/debats/2017/09/26/l-avenir-de-l-europe-se-joue-bien-en-catalogne_1599099/)
+
+* Libre determinación aquí y ahora (30/07/2017) - [Deia](https://www.deia.eus/opinion/2017/07/30/libre-determinacion-ahora-4933883.html)
+
+
+*Podcasts*
+
+* Marc Sanjaume on scientific expertise in conflict resolution - [Science for Policy](https://podtail.com/es/podcast/science-for-policy/marc-sanjaume-i-calvet-on-scientific-expertise-in-/)
+
+* [L'Europa de Demà](https://barcelona.spain.representation.ec.europa.eu/leuropa-de-dema_es) (Gerard Miret/Jordi Amat)
+
+* [La Segona Volta](https://www.ccma.cat/3cat/segona-volta/mes-info/#onboarding=true) (Marc Guinjoan/Toni Rodon)
+
+
+*Former blogs*
+
+* [Nació Digital. El Pati Descobert](https://www.google.com/url?q=https%3A%2F%2Fwww.naciodigital.cat%2Felpatidescobert&sa=D&sntz=1&usg=AFQjCNHblpA9mtjvHMdPUnuydVHLqT95SQ) with Marc Guinjoan i Toni Rodon
+
+* [Diari Ara. El Pati Descobert](http://www.google.com/url?q=http%3A%2F%2Fblogspersonals.ara.cat%2Felpatidescobert%2Fblog%2Fetiqueta%2Fmarc-sanjaume%2Fpage%2F6%2F&sa=D&sntz=1&usg=AFQjCNFXufu-o0Pn-Cx3gnSmDLFCC6ec3w) with Marc Guinjoan i Toni Rodon
+
+* [El Pati Descobert](https://elpatidescobert.cat/) with Marc Guinjoan i Toni Rodon
+
+
+
+
+
+
+
+
+
 
 

@@ -82,13 +82,13 @@ languages:
         url: /Research/
         weight: 50
         identifier : "Research"
-      #name: Mitjans
-        #url: /Outreach/
-        #weight: 60
-        #identifier : "Outreach"
-       #name: CV
-        #url: https://msanjaume.netlify.app/uploads/resume.pdf
-        #weight: 70
+      - name: Mitjans
+        url: /Outreach/
+        weight: 60
+        identifier : "Outreach"
+      - name: Consultoria
+        url: /Consultancy/
+        weight: 70
       - name: Contacte
         url: '#contact'
         weight: 80

@@ -9,6 +9,7 @@ theme: earth
 day_night: true
 font: ''
 font_size: L
+color_theme : "ocean"
 
 # SEO
 

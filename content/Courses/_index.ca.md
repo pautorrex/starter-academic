@@ -9,11 +9,29 @@ header:
   image: ""
 ---
 
+**2023-2024**
+
+Society and Politics in Spain, Summer School, Universitat Pompeu Fabra
+
+Teoria Política I, Grau en Ciències Polítiques i de l'Administració, Universitat Pompeu Fabra
+
+Democracy and Political Liberalism: Theoretical and Institutional Features, Màster en Democràcies Actuals, Universitat Pompeu Fabra 
+
+
+**2022-2023**
+
+Society and Politics in Spain, Summer School, Universitat Pompeu Fabra
+
+Teoria Política I, Grau en Ciències Polítiques i de l'Administració, Universitat Pompeu Fabra
+
+Democracy and Political Liberalism: Theoretical and Institutional Features, Màster en Democràcies Actuals, Universitat Pompeu Fabra 
+
+
 **2021-2022**
 
-[Teoria Política I](https://gestioacademica.upf.edu/doa/consultaPublica/look%5Bconpub%5DBuscarPubGuiaDocAs?entradaPublica=true&idiomaPais=ca.ES&_centro=339&_estudio=3391&_anoAcademico=2021)
+Teoria Política I, Grau en Ciències Polítiques i de l'Administració, Universitat Pompeu Fabra
 
-[Democracy and Political Liberalism: Theoretical and Institutional Features](https://gestioacademica.upf.edu/doa/consultaPublica/look[conpub]MostrarPubGuiaDocAs)
+Democracy and Political Liberalism: Theoretical and Institutional Features, Màster en Democràcies Actuals, Universitat Pompeu Fabra 
 
 **2020-2021**
 

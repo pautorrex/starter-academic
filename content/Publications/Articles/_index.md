@@ -10,7 +10,6 @@ header:
   image: ""
 ---
 
-<br/><br/>
 
 * Sanjaume-Calvet M.; Paneque, A. 2023. "[Shared or Self-rule? Regional Legislative Initiatives in Multi-level Spain, 1979-2021](https://www.tandfonline.com/doi/full/10.1080/13608746.2023.2228099)", ***South European Society and Politics***. DOI: 10.1080/13608746.2023.2228099.  [Download](https://msanjaume.netlify.app/uploads/Shared_2023.pdf)<br/><br/> 
 

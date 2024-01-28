@@ -11,7 +11,7 @@ header:
 
 I coordinate the [Research Group in Political Theory](https://www.upf.edu/web/grtp) (GRTP) together with Professor [Sergi Morales-Gálvez](https://www.sergimorales.cat/es/). The GRTP is a consolidated research group of the Department of Political and Social Sciences at the Universitat Pompeu Fabra. The GRTP analyses, from a theoretical and applied perspective, democratic societies with a focus on a variety of topics in contemporary political theory – justice and rights, nationalism and secession, religion and democracy, federalism and minority rights, EU politics and regionalism, law and pluralism, art and politics.<br/><br/> 
 
-*Current projects:*<br/><br/> 
+**Current projects:**<br/><br/> 
 
 
 * Proyectos de Generación de Conocimiento 2021.*Independence and government decision-making. Why do states accept to hold self-determination referendums?* (REFSTATE) (PID2021-123861NB-I00) IPs: Jean-Baptiste Harguindéguy (Universidad Pablo de Olavide) / Marc Sanjaume-Calvet (UPF), (2022-2025).<br/><br/> 

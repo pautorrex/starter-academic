@@ -9,6 +9,9 @@ header:
   caption: ""
   image: ""
 ---
+
+<br/><br/>
+
 * Sanjaume-Calvet M.; Paneque, A. 2023. "[Shared or Self-rule? Regional Legislative Initiatives in Multi-level Spain, 1979-2021](https://www.tandfonline.com/doi/full/10.1080/13608746.2023.2228099)", ***South European Society and Politics***. DOI: 10.1080/13608746.2023.2228099.  [Download](https://msanjaume.netlify.app/uploads/Shared_2023.pdf)<br/><br/> 
 
 * Sanjaume-Calvet M.; Cetrà, D.; Franco-Guillén, N. 2023. "[Leaving Europe, leaving Spain: comparing secessionism from and within the European Union](https://www.tandfonline.com/doi/full/10.1080/01402382.2023.2191104)", ***West European Politics***. DOI: 10.1080/01402382.2023.2191104.  [Download](https://msanjaume.netlify.app/uploads/Leaving_2023.pdf)<br/><br/>

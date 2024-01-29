@@ -26,11 +26,19 @@ header:
 
 * Els acords amb el PSOE: victòria o fracàs? (23/11/2023) - [Ara](https://www.ara.cat/opinio/acords-d-investidura-psoe-victoria-fracas_129_4865898.html)
 
+* Omnium contra omnes? (01/12/2022) - [Nació Digital](https://www.naciodigital.cat/opinio/25348/omnium-contra-omnes) 
+
+* Girar full, un error estratègic (03/02/2021) - [Nació Digital](https://www.naciodigital.cat/opinio/22690/girar-full-error-estrategic)
+
+* El país i la Covid-19 (26/04/2020) - [Nació Digital](https://www.naciodigital.cat/opinio/21413/pais-covid-19)
+
 * Teorías de la secesión: Charla con Marc Sanjaume (17/01/2020) -  [Libertalia](https://revistalibertalia.com/single-post/2020/01/16/Teorias-secesion-Charla-con-Marc-Sanjaume)
 
 * ¿Centralitzar o descentralitzar la resposta a la covid-19? (01/04/2020) - [Ara](https://www.ara.cat/opinio/marc-sanjaume-centralitzar-descentralitzar-resposta-covid-19-coronavirus_129_1177032.html)
 
 * La fosca claredat canadenca (06/08/2019) - [Ara](https://www.ara.cat/opinio/ferran-requejo-marc-sanjaume_129_2654345.html)
+
+* Síntesi (18/05/2019) - [Nació Digital](https://www.naciodigital.cat/opinio/19625/sintesi)
 
 * Cuidado con los “liberales” (4/5/2018) - [CTXT. Revista Contexto](https://ctxt.es/es/20180502/Firmas/19391/Liberalismo-politica-teoria-espana-partidos.htm)
 
@@ -38,7 +46,11 @@ header:
 
 * L'avenir de l'Europe se joue bien en Catalogne (26/09/2017) -  [Libération](https://www.liberation.fr/debats/2017/09/26/l-avenir-de-l-europe-se-joue-bien-en-catalogne_1599099/)
 
+* La LLei de transitorietat i el 2 d'octubre (12/09/2017) - [Nació Digital](https://www.naciodigital.cat/opinio/16156/llei-transitorietat-octubre)
+
 * Libre determinación aquí y ahora (30/07/2017) - [Deia](https://www.deia.eus/opinion/2017/07/30/libre-determinacion-ahora-4933883.html)
+
+* Independència i conquesta (16/01/2017) - [Nació Digital](https://www.naciodigital.cat/opinio/14588/independencia-conquesta)
 
 
 *Podcasts*

@@ -22,6 +22,8 @@ header:
 
 *Articles i comentari polític*
 
+* Un debat gruixut (30/01/2024) - [Nació Digital](https://www.naciodigital.cat/opinio/27008/debat-gruixut)
+
 * L'autogovern: obstacle o impuls a la independència? (07/01/2024) - [Ara](https://www.ara.cat/opinio/l-autogovern-obstacle-impuls-independencia_129_4902512.html)
 
 * Els acords amb el PSOE: victòria o fracàs? (23/11/2023) - [Ara](https://www.ara.cat/opinio/acords-d-investidura-psoe-victoria-fracas_129_4865898.html)

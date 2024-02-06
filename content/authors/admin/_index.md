@@ -20,8 +20,9 @@ bio: Assistant Professor at Universitat Pompeu Fabra, Barcelona.
 interests:
 - Federalism
 - Self-determination
-- National & Ethnic conflicts
+- National & Ethnic Conflicts
 - Social and Cultural Justice
+- Democracy & Diversity
 - Environment
 
 
@@ -34,10 +35,10 @@ education:
   - course: PhD in Political Theory
     institution: Universitat Pompeu Fabra
     year: 2013
-  - course: MA in Political and Social Sciences
+  - course: MA in Political & Social Sciences
     institution: Universitat Pompeu Fabra
     year: 2008
-  - course: BA in Political and Administration Sciences
+  - course: BA in Political & Admin. Sciences
     institution: Universitat Pompeu Fabra
     year: 2007
     

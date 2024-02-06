@@ -22,6 +22,7 @@ interests:
 - Autodeterminació
 - Conflictes nacionals i ètnics
 - Justícia social i cultural
+- Democràcia i diversitat
 - Medi ambient
 
 

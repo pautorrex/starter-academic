@@ -19,10 +19,10 @@ bio: Assistant Professor at Universitat Pompeu Fabra, Barcelona.
 # Interests to show in About widget
 interests:
 - Federalisme
-- Secessió
-- Justícia cultural
-- Justícia social
-- Democràcia
+- Autodeterminació
+- Conflictes nacionals i ètnics
+- Justícia social i cultural
+- Medi ambient
 
 
 # Education to show in About widget
@@ -34,6 +34,12 @@ education:
   - course: Doctorat en Teoria Política
     institution: Universitat Pompeu Fabra
     year: 2013
+  - course: Màster en Ciències Polítiques i Socials
+    institution: Universitat Pompeu Fabra
+    year: 2008
+  - course: Llicenciatura en Ciències Polítiques i de l'Administració
+    institution: Universitat Pompeu Fabra
+    year: 2007
 
 
 # Social/Academic Networking

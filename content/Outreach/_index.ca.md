@@ -11,6 +11,8 @@ header:
 
 *Blog posts*
 
+* What Russia’s war Against Ukraine means for Self-Determination Claims Around the World (1/02/2024) - [Centre on Constitutional Change](https://www.centreonconstitutionalchange.ac.uk/news-and-opinion/what-russias-war-against-ukraine-means-self-determination-claims-around-world)
+
 * Cauces democráticos para Cataluña (5/11/2018) - [Agenda Pública](https://agendapublica.elpais.com/noticia/14611/cauces-democraticos-cataluna)
 
 * Catalonia: From Secessionism to Secession? (15/01/2016) - [E-International Relations](https://www.e-ir.info/2016/01/15/catalonia-from-secessionism-to-secession/)

@@ -5,9 +5,9 @@
 
 # Appearance
 
-theme: ocean
+theme: forest
 day_night: true
-font: 'classic'
+font: 'default'
 font_size: L
 color_theme: ocean
 

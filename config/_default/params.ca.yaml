@@ -5,9 +5,9 @@
 
 # Appearance
 
-theme: punk
+theme: ocean
 day_night: true
-font: ''
+font: 'classic'
 font_size: L
 color_theme: ocean
 

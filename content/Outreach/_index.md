@@ -26,7 +26,7 @@ header:
 
 *Recent op-eds and political commentary*
 
-* Extremisme de centre (1/03/2024) - [Ara](https://www.ara.cat/opinio/extremisme-centre-marc-sanjaume_129_4953789.html)
+* Extremisme de centre (1/03/2024) - [Ara](https://www.ara.cat/opinio/extremisme-centre-marc-sanjaume_129_4953789.html) 
 
 * Un debat gruixut (30/01/2024) - [Nació Digital](https://www.naciodigital.cat/opinio/27008/debat-gruixut)
 

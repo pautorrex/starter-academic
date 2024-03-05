@@ -24,6 +24,8 @@ header:
 
 *Articles i comentari polític*
 
+* Extremisme de centre (1/03/2024) - [Ara](https://www.ara.cat/opinio/extremisme-centre-marc-sanjaume_129_4953789.html)
+
 * Un debat gruixut (30/01/2024) - [Nació Digital](https://www.naciodigital.cat/opinio/27008/debat-gruixut)
 
 * L'autogovern: obstacle o impuls a la independència? (07/01/2024) - [Ara](https://www.ara.cat/opinio/l-autogovern-obstacle-impuls-independencia_129_4902512.html)

@@ -11,6 +11,8 @@ header:
 
 *Blog posts*
 
+* Protecting Territorial Minorities: Defensive Federalism (19/02/2024) - [Justice Everywhere](https://justice-everywhere.org/general/protecting-territorial-minorities-defensive-federalism/)
+
 * What Russia’s war Against Ukraine means for Self-Determination Claims Around the World (1/02/2024) - [Centre on Constitutional Change](https://www.centreonconstitutionalchange.ac.uk/news-and-opinion/what-russias-war-against-ukraine-means-self-determination-claims-around-world)
 
 * Cauces democráticos para Cataluña (5/11/2018) - [Agenda Pública](https://agendapublica.elpais.com/noticia/14611/cauces-democraticos-cataluna)

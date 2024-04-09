@@ -10,6 +10,9 @@ header:
   image: ""
 ---
 
+* Ungureanu, C.; Sanjaume-Calvet, M. 2024. "[The blurred lines between center-right and far-right: “Reverse contamination” and the People’s Party’s environmentalism in Spain](https://journals.sagepub.com/doi/10.1177/13540688241242275)", ***Party Politics***, 0(0). DOI: https://doi.org/10.1177/1354068824124227.<br/><br/>
+
+* Sanjaume Calvet, M., Harguindéguy, J. B., & Sánchez Sánchez, A. 2024. "[Self-determination vs. state sovereignty. What are the determinants of agreed-upon independence referendums in liberal democracies?](https://www.tandfonline.com/doi/full/10.1080/13510347.2024.2331709)" ***Democratization***, 1–25. https://doi.org/10.1080/13510347.2024.2331709. <br/><br/>
 
 * Sanjaume-Calvet M.; Paneque, A. 2023. "[Shared or Self-rule? Regional Legislative Initiatives in Multi-level Spain, 1979-2021](https://www.tandfonline.com/doi/full/10.1080/13608746.2023.2228099)", ***South European Society and Politics***. DOI: 10.1080/13608746.2023.2228099.  [Download](https://msanjaume.netlify.app/uploads/Shared_2023.pdf)<br/><br/> 
 

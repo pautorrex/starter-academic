@@ -10,6 +10,8 @@ header:
   image: ""
 ---
 
+* Morales Gálvez, Sergi, Elvira Riera-Gil, Lluís Pérez-Lozano, and Marc Sanjaume-Calvet, eds. 2024. [Filosofia Política: Una Introducció](https://www.edicions.ub.edu/ficha.aspx?cod=16517). FILOSOFIA UB. Publicacions i Edicions de la Universitat de Barcelona.<br/><br/>
+
 * Requejo, F.; Sanjaume-Calvet, M. (eds.). 2022. [Defensive Federalism Protecting Territorial Minorities from the "Tyranny of the Majority"](https://www.routledge.com/Defensive-Federalism-Protecting-Territorial-Minorities-from-the-Tyranny/Requejo-Sanjaume-Calvet/p/book/9781032281964), Routledge.<br/><br/> 
 
 

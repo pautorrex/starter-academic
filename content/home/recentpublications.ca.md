@@ -14,15 +14,13 @@
   weight : 30
 ---
 
+* Morales Gálvez, Sergi, Elvira Riera-Gil, Lluís Pérez-Lozano, and Marc Sanjaume-Calvet, eds. 2024. [Filosofia Política: Una Introducció](https://www.edicions.ub.edu/ficha.aspx?cod=16517). FILOSOFIA UB. Publicacions i Edicions de la Universitat de Barcelona.<br/><br/>
+
 * Sanjaume-Calvet, M.; Daniels, Lesley-Ann. 2024. "[An Inflection Point or Business as Usual? Secessionism as State Contestation in Ukraine](https://academic.oup.com/isagsq/article/4/2/ksae030/7678794?login=false)", ***Global Studies Quarterly***, 4(2). DOI: https://doi.org/10.1093/isagsq/ksae030.<br/><br/>
 
 * Ungureanu, C.; Sanjaume-Calvet, M. 2024. "[The blurred lines between center-right and far-right: “Reverse contamination” and the People’s Party’s environmentalism in Spain](https://journals.sagepub.com/doi/10.1177/13540688241242275)", ***Party Politics***, 0(0). DOI: https://doi.org/10.1177/1354068824124227.<br/><br/>
 
 * Sanjaume-Calvet, M., Harguindéguy, J. B., & Sánchez Sánchez, A. 2024. "[Self-determination vs. state sovereignty. What are the determinants of agreed-upon independence referendums in liberal democracies?](https://www.tandfonline.com/doi/full/10.1080/13510347.2024.2331709)" ***Democratization***, 1–25. https://doi.org/10.1080/13510347.2024.2331709. <br/><br/>
-
-
-* Requejo, F.; Sanjaume-Calvet, M. (eds.). 2023. [Defensive Federalism Protecting Territorial Minorities from the "Tyranny of the Majority"](https://www.routledge.com/Defensive-Federalism-Protecting-Territorial-Minorities-from-the-Tyranny/Requejo-Sanjaume-Calvet/p/book/9781032281964), Routledge.<br/><br/> 
-
 
 * Vegeu l'apartat de [Publicacions](/Publications/) per a més informació.<br/><br/>
 

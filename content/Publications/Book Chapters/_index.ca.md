@@ -10,6 +10,10 @@ header:
   image: ""
 ---
 
+* Sanjaume-Calvet, M. 2024. ["14. Estan moralment justificades, les secessions?"](https://www.edicions.ub.edu/ficha.aspx?cod=16517), In: *Filosofia Política. Una introducció*, Edicions UB, pp. 377-402. <br/><br/> 
+
+* Morales-Gálvez, S.; Riera-Gil, E.; Pérez-Lozano, Ll.; Sanjaume-Calvet, M. 2024. ["1. De què parlem quan parlem de filosofia política?"](https://www.edicions.ub.edu/ficha.aspx?cod=16517), In: *Filosofia Política. Una introducció*, Edicions UB, pp. 11-34. <br/><br/> 
+
 * Sanjaume-Calvet, M. 2022. ["Democracy and secessionism: constitutional firewalls and an emerging accommodational paradigm"](https://www.e-elgar.com/shop/gbp/comparative-election-law-9781788119016.html), In: Gardner, James A. (ed.) *Comparative Election Law*, Edward Elgar Publishing, pp. 114-138.<br/><br/>
 
 * Vallbé, J.J.; Sanjaume-Calvet, M. 2021. ["Spain. A "Cardboard Model" of MP Floor Participation"](https://books.google.es/books?id=Oi5CEAAAQBAJ&pg=PA692&lpg=PA692&dq=Spain.+A+%22Cardboard+Model%22+of+MP+Floor+Participation&source=bl&ots=NiaHHW32V3&sig=ACfU3U10WDipwn4BTiL7k16XpOGX47etHw&hl=es&sa=X&ved=2ahUKEwj9i7Hm_-nzAhUCtRoKHRBlAt4Q6AF6BAgCEAM#v=onepage&q=Spain.%20A%20%22Cardboard%20Model%22%20of%20MP%20Floor%20Participation&f=false), In: Bäck, H.; Debus, M.; Fernandes, J.M. (ed.) *The politics of legislative debates*, Oxford University Press, pp. 692-712.<br/><br/>

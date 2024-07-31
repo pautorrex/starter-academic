@@ -14,7 +14,9 @@
   weight : 30
 ---
 
-* Morales Gálvez, Sergi; Elvira Riera-Gil; Lluís Pérez-Lozano and Marc Sanjaume-Calvet, eds. 2024. [Filosofia Política: Una Introducció](https://www.edicions.ub.edu/ficha.aspx?cod=16517). FILOSOFIA UB. Publicacions i Edicions de la Universitat de Barcelona.<br/><br/>
+* Sanjaume-Calvet, M.; Lesley-Ann Daniels; Pau Bossacoma Busquets. 2024. "[Territorial Conflict in the Spotlight: Unveiling Paths to Territorial Clarity](https://academic.oup.com/publius/advance-article/doi/10.1093/publius/pjae023/7724058?searchresult=1), ***Publius: The Journal of Federalism***. DOI: https://doi.org/10.1093/publius/pjae023 <br/><br/>
+
+* Morales Gálvez, Sergi; Elvira Riera-Gil; Lluís Pérez-Lozano and Marc Sanjaume-Calvet, eds. 2024. [Filosofia Política: Una Introducció](https://www.edicions.ub.edu/ficha.aspx?cod=16517). Publicacions i Edicions de la Universitat de Barcelona.<br/><br/>
 
 * Sanjaume-Calvet, M.; Daniels, Lesley-Ann. 2024. "[An Inflection Point or Business as Usual? Secessionism as State Contestation in Ukraine](https://academic.oup.com/isagsq/article/4/2/ksae030/7678794?login=false)", ***Global Studies Quarterly***, 4(2). DOI: https://doi.org/10.1093/isagsq/ksae030.<br/><br/>
 

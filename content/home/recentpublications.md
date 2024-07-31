@@ -14,7 +14,7 @@
   weight : 30
 ---
 
-* Sanjaume-Calvet, M.; Lesley-Ann Daniels; Pau Bossacoma Busquets. 2024. "[Territorial Conflict in the Spotlight: Unveiling Paths to Territorial Clarity](https://academic.oup.com/publius/advance-article/doi/10.1093/publius/pjae023/7724058?searchresult=1), ***Publius: The Journal of Federalism***. DOI: https://doi.org/10.1093/publius/pjae023 <br/><br/>
+* Sanjaume-Calvet, M.; Lesley-Ann Daniels; Pau Bossacoma Busquets. 2024. ["Territorial Conflict in the Spotlight: Unveiling Paths to Territorial Clarity""](https://academic.oup.com/publius/advance-article/doi/10.1093/publius/pjae023/7724058?searchresult=1), ***Publius: The Journal of Federalism***. DOI: https://doi.org/10.1093/publius/pjae023. <br/><br/>
 
 * Morales Gálvez, Sergi; Elvira Riera-Gil; Lluís Pérez-Lozano and Marc Sanjaume-Calvet, eds. 2024. [Filosofia Política: Una Introducció](https://www.edicions.ub.edu/ficha.aspx?cod=16517). Publicacions i Edicions de la Universitat de Barcelona.<br/><br/>
 

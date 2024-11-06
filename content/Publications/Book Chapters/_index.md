@@ -9,6 +9,7 @@ header:
   caption: ""
   image: ""
 ---
+* Sanjaume-Calvet, M. 2024. ["7. Kymlicka in Catalonia, 25 years on"](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003435853-7/kymlicka-catalonia-25-years-marc-sanjaume-calvet?context=ubx&refId=1ca8538b-56a6-4985-985d-254bc1904bdc), In: *Multicultural Citizenship. Legacy and Critique*, Routledge. <br/><br/> 
 
 * Sanjaume-Calvet, M. 2024. ["14. Estan moralment justificades, les secessions?"](https://www.edicions.ub.edu/ficha.aspx?cod=16517), In: *Filosofia Política. Una introducció*, Edicions UB, pp. 377-402. <br/><br/> 
 

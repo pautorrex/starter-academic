@@ -11,6 +11,8 @@ header:
 
 *Blog posts*
 
+* Climate change denialism and the crisis of the centre in Spain (12/11/2024) - [The Loop](https://theloop.ecpr.eu/in-spanish-politics-climate-denial-is-not-only-a-trait-of-the-far-right-its-a-crisis-of-the-centre/) 
+
 * Protecting Territorial Minorities: Defensive Federalism (19/02/2024) - [Justice Everywhere](https://justice-everywhere.org/general/protecting-territorial-minorities-defensive-federalism/)
 
 * What Russia’s war Against Ukraine means for Self-Determination Claims Around the World (1/02/2024) - [Centre on Constitutional Change](https://www.centreonconstitutionalchange.ac.uk/news-and-opinion/what-russias-war-against-ukraine-means-self-determination-claims-around-world)
@@ -54,7 +56,7 @@ header:
 
 * L'avenir de l'Europe se joue bien en Catalogne (26/09/2017) -  [Libération](https://www.liberation.fr/debats/2017/09/26/l-avenir-de-l-europe-se-joue-bien-en-catalogne_1599099/)
 
-* La LLei de transitorietat i el 2 d'octubre (12/09/2017) - [Nació Digital](https://www.naciodigital.cat/opinio/16156/llei-transitorietat-octubre)
+* La Llei de transitorietat i el 2 d'octubre (12/09/2017) - [Nació Digital](https://naciodigital.cat/opinio/la-llei-de-transitorietat-i-el-2-doctubre_17433_102.html)
 
 * Libre determinación aquí y ahora (30/07/2017) - [Deia](https://www.deia.eus/opinion/2017/07/30/libre-determinacion-ahora-4933883.html)
 

@@ -10,6 +10,8 @@ header:
   image: ""
 ---
 
+* Daniels, Lesley-Ann; Sanjaume-Calvet, M. 2024. ["Dynamic legitimacy in territorial conflicts""](https://www.tandfonline.com/doi/full/10.1080/21622671.2024.2412658), ***Territory, Politics, Governance***. DOI: https://doi.org/10.1080/21622671.2024.2412658. <br/><br/>
+
 * Sanjaume-Calvet, M.; Lesley-Ann Daniels; Pau Bossacoma Busquets. 2024. ["Territorial Conflict in the Spotlight: Unveiling Paths to Territorial Clarity""](https://academic.oup.com/publius/advance-article/doi/10.1093/publius/pjae023/7724058?searchresult=1), ***Publius: The Journal of Federalism***. DOI: https://doi.org/10.1093/publius/pjae023. <br/><br/>
 
 * Sanjaume-Calvet, M.; Daniels, Lesley-Ann. 2024. "[An Inflection Point or Business as Usual? Secessionism as State Contestation in Ukraine](https://academic.oup.com/isagsq/article/4/2/ksae030/7678794?login=false)", ***Global Studies Quarterly***, 4(2). DOI: https://doi.org/10.1093/isagsq/ksae030.<br/><br/>

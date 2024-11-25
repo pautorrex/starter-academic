@@ -6,7 +6,7 @@ title:
 superuser: true
 
 # Role/position/tagline
-role: Professor Lector <br/> de Teoria Política
+role: Investigador Predoctoral <br/> en Identitats Territorials
 
 # Organizations/Affiliations to show in About widget
 organizations:

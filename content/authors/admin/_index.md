@@ -6,7 +6,7 @@ title:
 superuser: true
 
 # Role/position/tagline
-role: Predoctoral Researcher <br/> of Territorial Identities
+role: Predoctoral Researcher <br/> in Territorial Identities
 
 # Organizations/Affiliations to show in About widget
 organizations:

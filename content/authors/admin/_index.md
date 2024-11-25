@@ -6,7 +6,7 @@ title:
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor <br/> of Political Theory
+role: Predoctoral Researcher <br/> of Territorial Identities
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,33 +14,27 @@ organizations:
   url: https://www.upf.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Assistant Professor at Universitat Pompeu Fabra, Barcelona.
+bio: Predoctoral Researcher at Universitat Pompeu Fabra, Barcelona.
 
 # Interests to show in About widget
 interests:
-- Federalism
-- Self-determination
-- National & Ethnic Conflicts
-- Social and Cultural Justice
-- Democracy & Diversity
-- Environment
+- Nationalism
+- Regionalism
+- Nation-building
 
 
 # Education to show in About widget
 education:
   courses:
-  - course: Master Degree Data Analyst
+  - course: Master Degree Data Analytics for Social Science
     institution: Universitat de Barcelona
-    year: 2018
-  - course: PhD in Political Theory
-    institution: Universitat Pompeu Fabra
-    year: 2013
-  - course: MA in Political & Social Sciences
-    institution: Universitat Pompeu Fabra
-    year: 2008
-  - course: BA in Political & Admin. Sciences
-    institution: Universitat Pompeu Fabra
-    year: 2007
+    year: 2021
+  - course: MA in Democracy & Government
+    institution: Universitat Autònoma de Madrid
+    year: 2020
+  - course: BA in Political Science & Public Admin
+    institution: Universitat de Barcelona
+    year: 2019
     
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -52,16 +46,17 @@ social:
   link: '/#contact'
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.es/citations?user=48oozN8AAAAJ&hl=es
+  link: https://scholar.google.es/citations?user=5HcxOpcAAAAJ&hl=ca&oi=ao
 - icon: github
   icon_pack: fab
-  link: https://github.com/msanjcalv
-- icon: research gate
-  icon_pack: fab
-  link: https://www.researchgate.net/profile/Marc-Sanjaume-Calvet
+  link: https://github.com/pautorrex
+#- icon: research gate
+ # icon_pack: fab
+  #link: https://www.researchgate.net/profile/Marc-Sanjaume-Calvet
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/marcsanjaume
+  link: https://twitter.com/pautorrex
+
 
   
   
@@ -82,8 +77,7 @@ email: ""
 highlight_name: false
 ---
 
-Welcome to my page! I am **Marc Sanjaume-Calvet**, Assistant Professor of Political Theory in the [Department of Political and Social Sciences](https://www.upf.edu/web/politiques) at [Universitat Pompeu Fabra](https://www.upf.edu). Member of the [Political Theory Research Group](https://www.upf.edu/web/grtp). Coordinator of the [Master in Current Democracies](https://www.upf.edu/web/masters/master-en-democracies-actuals-nacionalisme-federalisme-i-multiculturalitat) program. 
+I am predoctoral researcher in the [Department of Political and Social Sciences](https://www.upf.edu/web/politiques) at [Universitat Pompeu Fabra](https://www.upf.edu). My main research topics are territorial identities and the factors that explain their popularity/unpopularity.
 
-Former Assistant Professor at [Universitat Oberta de Catalunya](https://www.uoc.edu), Advisor at [Self-Government Studies Institute - Institut d'Estudis de l'Autogovern](https://presidencia.gencat.cat/ca/ambits_d_actuacio/desenvolupament_autogovern/institut-destudis-autogovern/) and Visiting Researcher at Edinburgh University (Scotland) and Laval University (Quebec). I also was a Postdoctoral Researcher at the [Centre de recherche interdisciplinaire sur la diversité et la démocratie at Université du Québec à Montréal](https://cridaq.uqam.ca/). My research has been published in the *Journal of Politics*, *Party Politics*, *Nations and Nationalism*, *Canadian Journal of Political Science* and *Representation* among others.  
 
 

@@ -14,33 +14,27 @@ organizations:
   url: https://www.upf.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Assistant Professor at Universitat Pompeu Fabra, Barcelona.
+bio: Predoctoral Researcher at Universitat Pompeu Fabra, Barcelona.
 
 # Interests to show in About widget
 interests:
-- Federalisme
-- Autodeterminació
-- Conflictes nacionals i ètnics
-- Justícia social i cultural
-- Democràcia i diversitat
-- Medi ambient
+- Nationalism
+- Regionalism
+- Nation-building
 
 
 # Education to show in About widget
 education:
   courses:
-  - course: Postgrau Analista de Dades
+  - course: Postgrau Data Analytics for Social Science
     institution: Universitat de Barcelona
-    year: 2018
-  - course: Doctorat en Teoria Política
-    institution: Universitat Pompeu Fabra
-    year: 2013
-  - course: Màster en Ciències Polítiques i Socials
-    institution: Universitat Pompeu Fabra
-    year: 2008
-  - course: Llicenciatura en Ciències Polítiques i de l'Administració
-    institution: Universitat Pompeu Fabra
-    year: 2007
+    year: 2021
+  - course: Màster en Democràcia i Govern
+    institution: Universitat Autònoma de Madrid
+    year: 2020
+  - course: Grau en Ciències Polítiques i de l'Administració Pública
+    institution: Universitat de Barcelona
+    year: 2019
 
 
 # Social/Academic Networking
@@ -53,16 +47,16 @@ social:
   link: '/#contact'
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.es/citations?user=48oozN8AAAAJ&hl=es
+  link: https://scholar.google.es/citations?user=5HcxOpcAAAAJ&hl=ca&oi=ao
 - icon: github
   icon_pack: fab
-  link: https://github.com/msanjcalv
-- icon: research gate
-  icon_pack: fab
-  link: https://www.researchgate.net/profile/Marc-Sanjaume-Calvet
+  link: https://github.com/pautorrex
+#- icon: research gate
+ # icon_pack: fab
+  #link: https://www.researchgate.net/profile/Marc-Sanjaume-Calvet
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/marcsanjaume
+  link: https://twitter.com/pautorrex
 
   
   
